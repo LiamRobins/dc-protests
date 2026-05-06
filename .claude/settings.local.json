@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.nps.gov)",
+      "WebFetch(domain:www.eventbrite.com)",
+      "WebFetch(domain:dcist.com)",
+      "WebFetch(domain:www.answercoalition.org)",
+      "WebFetch(domain:www.dc.gov)"
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DC Protests & Gatherings</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+            --bg:         #111318;
+            --card-bg:    #1c1f26;
+            --border:     #2e3340;
+            --text:       #e8eaf0;
+            --muted:      #8b8fa8;
+            --accent:     #e63946;
+            --accent-dim: rgba(230, 57, 70, 0.15);
+            --blue:       #4a9eff;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        /* ── Header ── */
+        header {
+            background: linear-gradient(135deg, #1a0508 0%, #0d1321 100%);
+            border-bottom: 2px solid var(--accent);
+            padding: 2rem 1.5rem 1.5rem;
+            text-align: center;
+        }
+
+        .site-title {
+            font-size: 2.2rem;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            color: #fff;
+            text-transform: uppercase;
+        }
+
+        .site-title span { color: var(--accent); }
+
+        .site-subtitle {
+            color: var(--muted);
+            font-size: 1rem;
+            margin-top: 0.4rem;
+        }
+
+        .meta-bar {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1.5rem;
+            margin-top: 1rem;
+            font-size: 0.85rem;
+            color: var(--muted);
+            flex-wrap: wrap;
+        }
+
+        .meta-bar code {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            padding: 0.2rem 0.6rem;
+            font-size: 0.82rem;
+        }
+
+        /* ── Main layout ── */
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+
+        /* ── Day section ── */
+        .day-section { margin-bottom: 2.5rem; }
+
+        .day-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+
+        .day-name {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: #fff;
+            white-space: nowrap;
+        }
+
+        .day-name.today { color: var(--accent); }
+
+        .today-badge {
+            background: var(--accent);
+            color: #fff;
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 0.15rem 0.45rem;
+            border-radius: 3px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .day-date {
+            font-size: 0.88rem;
+            color: var(--muted);
+            white-space: nowrap;
+        }
+
+        .day-divider {
+            flex: 1;
+            height: 1px;
+            background: var(--border);
+        }
+
+        .day-count {
+            font-size: 0.82rem;
+            color: var(--muted);
+            white-space: nowrap;
+        }
+
+        /* ── Event card ── */
+        .event-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            margin-bottom: 0.75rem;
+            overflow: hidden;
+            cursor: pointer;
+            transition: border-color 0.15s, box-shadow 0.15s;
+        }
+
+        .event-card:hover {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 1px var(--accent-dim), 0 4px 12px rgba(0,0,0,0.3);
+        }
+
+        .event-card.expanded { border-color: var(--accent); }
+
+        .event-card-header {
+            padding: 1rem 1.2rem;
+            display: flex;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+
+        .event-left { flex: 1; min-width: 0; }
+
+        .event-title-row {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.6rem;
+            flex-wrap: wrap;
+        }
+
+        .event-title {
+            font-size: 1.05rem;
+            font-weight: 600;
+            color: #fff;
+            flex: 1;
+            min-width: 0;
+        }
+
+        /* Type badges */
+        .event-type-badge {
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 0.2rem 0.5rem;
+            border-radius: 3px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .type-red    { background: rgba(230,57,70,0.2);   color: #e63946; border: 1px solid rgba(230,57,70,0.4); }
+        .type-blue   { background: rgba(74,158,255,0.2);  color: #4a9eff; border: 1px solid rgba(74,158,255,0.4); }
+        .type-green  { background: rgba(76,175,125,0.2);  color: #4caf7d; border: 1px solid rgba(76,175,125,0.4); }
+        .type-yellow { background: rgba(245,197,24,0.2);  color: #f5c518; border: 1px solid rgba(245,197,24,0.4); }
+        .type-gray   { background: rgba(139,143,168,0.2); color: #8b8fa8; border: 1px solid rgba(139,143,168,0.4); }
+
+        .source-badge {
+            font-size: 0.62rem;
+            color: var(--muted);
+            border: 1px solid var(--border);
+            border-radius: 3px;
+            padding: 0.15rem 0.4rem;
+            white-space: nowrap;
+            flex-shrink: 0;
+            opacity: 0.7;
+        }
+
+        .event-meta {
+            display: flex;
+            gap: 1rem;
+            margin-top: 0.4rem;
+            font-size: 0.85rem;
+            color: var(--muted);
+            flex-wrap: wrap;
+        }
+
+        .expand-icon {
+            font-size: 0.7rem;
+            color: var(--muted);
+            transition: transform 0.2s;
+            flex-shrink: 0;
+            padding-top: 0.3rem;
+            user-select: none;
+        }
+
+        .event-card.expanded .expand-icon { transform: rotate(180deg); }
+
+        /* ── Expanded details ── */
+        .event-details {
+            display: none;
+            padding: 1rem 1.2rem 1.2rem;
+            border-top: 1px solid var(--border);
+        }
+
+        .event-card.expanded .event-details { display: block; }
+
+        .detail-block { margin-bottom: 1rem; }
+        .detail-block:last-child { margin-bottom: 0; }
+
+        .detail-label {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--muted);
+            margin-bottom: 0.25rem;
+        }
+
+        .detail-value {
+            font-size: 0.92rem;
+            color: var(--text);
+        }
+
+        .event-description {
+            font-size: 0.9rem;
+            color: var(--text);
+            line-height: 1.75;
+            white-space: pre-line;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .event-links {
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+        }
+
+        .event-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            padding: 0.45rem 1rem;
+            border-radius: 5px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: opacity 0.15s;
+        }
+
+        .event-link:hover { opacity: 0.75; }
+        .event-link.primary   { background: var(--accent); color: #fff; }
+        .event-link.secondary { background: transparent; color: var(--blue); border: 1px solid var(--blue); }
+
+        /* ── Empty / error states ── */
+        .no-events {
+            color: var(--muted);
+            font-size: 0.9rem;
+            font-style: italic;
+            padding: 0.5rem 0.25rem;
+        }
+
+        .info-state {
+            text-align: center;
+            padding: 4rem 2rem;
+        }
+
+        .info-state h2 { color: var(--accent); margin-bottom: 1rem; }
+        .info-state p  { color: var(--muted); margin-bottom: 0.5rem; font-size: 0.95rem; }
+
+        .info-state code {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            padding: 0.7rem 1.5rem;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            display: inline-block;
+            margin-top: 0.5rem;
+            color: var(--text);
+        }
+
+        /* ── Footer ── */
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--muted);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--border);
+            margin-top: 2rem;
+        }
+
+        footer a { color: var(--blue); }
+
+        @media (max-width: 600px) {
+            .site-title  { font-size: 1.6rem; }
+            .event-meta  { gap: 0.6rem; }
+            .meta-bar    { gap: 0.75rem; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="site-title">DC <span>Protests</span> &amp; Gatherings</div>
+    <div class="site-subtitle">Upcoming public demonstrations, rallies, and events in Washington, D.C.</div>
+    <div class="meta-bar">
+        <span id="last-updated"></span>
+        <span>Refresh data: <code>python fetch_events.py</code></span>
+    </div>
+</header>
+
+<main id="app"></main>
+
+<footer>
+    Data sourced from
+    <a href="https://www.mobilize.us" target="_blank" rel="noopener">Mobilize.us</a>
+    and
+    <a href="https://www.eventbrite.com" target="_blank" rel="noopener">Eventbrite</a>
+    &nbsp;·&nbsp; For informational purposes only
+</footer>
+
+<script src="events.js"></script>
+<script>
+// ── Badge config ────────────────────────────────────
+const TYPE_INFO = {
+    RALLY:               { label: "Rally",         css: "type-red"    },
+    MARCH:               { label: "March",         css: "type-blue"   },
+    COMMUNITY_EVENT:     { label: "Community",     css: "type-green"  },
+    SOLIDARITY_EVENT:    { label: "Solidarity",    css: "type-red"    },
+    TOWN_HALL:           { label: "Town Hall",     css: "type-yellow" },
+    AUTONOMOUS_ACTION:   { label: "Action",        css: "type-red"    },
+    BARNSTORM:           { label: "Barnstorm",     css: "type-yellow" },
+    PARTY:               { label: "Festival/Party",css: "type-green"  },
+    PETITION_CIRCULATE:  { label: "Petition",      css: "type-gray"   },
+    OTHER_DISTRIBUTED:   { label: "Event",         css: "type-gray"   },
+};
+
+// ── Helpers ─────────────────────────────────────────
+function esc(str) {
+    return (str || '')
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+        .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function fmtTime(iso) {
+    return new Date(iso).toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
+}
+
+function fmtRange(start, end) {
+    return end ? `${fmtTime(start)} – ${fmtTime(end)}` : fmtTime(start);
+}
+
+function dayKey(iso) {
+    const d = new Date(iso);
+    return `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;
+}
+
+function sameDay(a, b) {
+    return a.getFullYear() === b.getFullYear()
+        && a.getMonth()    === b.getMonth()
+        && a.getDate()     === b.getDate();
+}
+
+function dayLabel(date) {
+    const today    = new Date();
+    const tomorrow = new Date(); tomorrow.setDate(today.getDate() + 1);
+    if (sameDay(date, today))    return { name: 'Today',    isToday: true  };
+    if (sameDay(date, tomorrow)) return { name: 'Tomorrow', isToday: false };
+    return { name: date.toLocaleDateString('en-US', { weekday: 'long' }), isToday: false };
+}
+
+// ── Toggle card open/closed ──────────────────────────
+function toggleCard(el) {
+    el.classList.toggle('expanded');
+}
+
+// ── Render a single event card ───────────────────────
+function renderCard(ev) {
+    const info   = TYPE_INFO[ev.event_type] || { label: ev.event_type || 'Event', css: 'type-gray' };
+    const time   = fmtRange(ev.start, ev.end);
+
+    const links = [];
+    if (ev.event_url) {
+        links.push(`<a href="${esc(ev.event_url)}" target="_blank" rel="noopener"
+            class="event-link primary" onclick="event.stopPropagation()">More Info ↗</a>`);
+    }
+    if (ev.organizer_website && ev.organizer_website !== ev.event_url) {
+        links.push(`<a href="${esc(ev.organizer_website)}" target="_blank" rel="noopener"
+            class="event-link secondary" onclick="event.stopPropagation()">Organizer Site ↗</a>`);
+    }
+
+    return `
+    <div class="event-card" onclick="toggleCard(this)">
+      <div class="event-card-header">
+        <div class="event-left">
+          <div class="event-title-row">
+            <span class="event-title">${esc(ev.title)}</span>
+            <span class="event-type-badge ${info.css}">${info.label}</span>
+            ${ev.source ? `<span class="source-badge">${esc(ev.source)}</span>` : ''}
+          </div>
+          <div class="event-meta">
+            <span>🕐 ${time}</span>
+            ${ev.location  ? `<span>📍 ${esc(ev.location)}</span>` : ''}
+            ${ev.organizer ? `<span>🏛 ${esc(ev.organizer)}</span>` : ''}
+          </div>
+        </div>
+        <div class="expand-icon">▼</div>
+      </div>
+      <div class="event-details">
+        ${ev.organizer ? `
+          <div class="detail-block">
+            <div class="detail-label">Organizer</div>
+            <div class="detail-value">${esc(ev.organizer)}</div>
+          </div>` : ''}
+        ${ev.location ? `
+          <div class="detail-block">
+            <div class="detail-label">Location</div>
+            <div class="detail-value">${esc(ev.location)}</div>
+          </div>` : ''}
+        ${ev.description ? `
+          <div class="detail-block">
+            <div class="detail-label">About This Event</div>
+            <div class="event-description">${esc(ev.description)}</div>
+          </div>` : ''}
+        ${links.length ? `<div class="event-links">${links.join('')}</div>` : ''}
+      </div>
+    </div>`;
+}
+
+// ── Group events into days ───────────────────────────
+function groupByDay(events) {
+    const map = {};
+    for (const ev of events) {
+        const k = dayKey(ev.start);
+        if (!map[k]) map[k] = { date: new Date(ev.start), events: [] };
+        map[k].events.push(ev);
+    }
+    return Object.values(map).sort((a, b) => a.date - b.date);
+}
+
+// ── Main render ──────────────────────────────────────
+function render() {
+    const app = document.getElementById('app');
+
+    if (typeof EVENTS_DATA === 'undefined') {
+        app.innerHTML = `
+          <div class="info-state">
+            <h2>No Event Data Loaded</h2>
+            <p>You need to run the Python script first to fetch events.</p>
+            <p>Open a terminal in this folder and run:</p>
+            <code>python fetch_events.py</code>
+            <p style="margin-top:1rem">Then refresh this page (press F5).</p>
+          </div>`;
+        return;
+    }
+
+    if (typeof LAST_UPDATED !== 'undefined') {
+        document.getElementById('last-updated').textContent = `Last updated: ${LAST_UPDATED}`;
+    }
+
+    if (!EVENTS_DATA.length) {
+        app.innerHTML = `
+          <div class="info-state">
+            <h2>No Events Found</h2>
+            <p>No upcoming public gatherings were found in DC for the next 7 days.</p>
+            <p>Try again later — events are added frequently.</p>
+          </div>`;
+        return;
+    }
+
+    const days = groupByDay(EVENTS_DATA);
+    let html = '';
+
+    for (const day of days) {
+        const lbl     = dayLabel(day.date);
+        const dateStr = day.date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+        const count   = day.events.length;
+
+        html += `
+        <div class="day-section">
+          <div class="day-header">
+            <span class="day-name ${lbl.isToday ? 'today' : ''}">${lbl.name}</span>
+            ${lbl.isToday ? '<span class="today-badge">Today</span>' : ''}
+            <span class="day-date">${dateStr}</span>
+            <div class="day-divider"></div>
+            <span class="day-count">${count} event${count !== 1 ? 's' : ''}</span>
+          </div>
+          ${day.events.map(renderCard).join('')}
+        </div>`;
+    }
+
+    app.innerHTML = html;
+}
+
+render();
+</script>
+
+</body>
+</html>
