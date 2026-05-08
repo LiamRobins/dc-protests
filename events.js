@@ -1,16 +1,29 @@
 const EVENTS_DATA = [
   {
-    "id": "mob_948564_5972968",
-    "title": "Democracy Rally",
-    "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
-    "start": "2026-05-08T13:00:00+00:00",
-    "end": "2026-05-09T03:45:00+00:00",
-    "location": "Constitution Avenue Northwest & Delaware Avenue Northeast, Washington, DC",
-    "organizer": "Organization of Iranian American Communities",
+    "id": "eb_6971795601662096167",
+    "title": "Community Healing Day: Root, Rise & Restore Together",
+    "description": "",
+    "start": "2026-05-09T10:00:00",
+    "end": null,
+    "location": "Temple Mother Earth, Washington",
+    "organizer": "",
     "organizer_website": "",
-    "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
-    "event_type": "RALLY",
-    "source": "Mobilize.us"
+    "event_url": "https://www.eventbrite.com/e/community-healing-day-root-rise-restore-together-registration-1125787734419",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_92951890988251671",
+    "title": "Community Yoga in the Park (Columbia Heights Green - New Location!)",
+    "description": "",
+    "start": "2026-05-09T10:00:00",
+    "end": null,
+    "location": "Columbia Heights Green, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-yoga-in-the-park-columbia-heights-green-new-location-tickets-1985915214867",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   },
   {
     "id": "mob_948564_5972969",
@@ -39,6 +52,19 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
+    "id": "eb_9030704444998003544",
+    "title": "Black Mothers March 2026",
+    "description": "",
+    "start": "2026-05-10T11:00:00",
+    "end": null,
+    "location": "Lincoln Memorial, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/black-mothers-march-2026-tickets-1982027506627",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_948564_5972970",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -52,9 +78,22 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
+    "id": "eb_7617992097057099882",
+    "title": "Navy Yard on the Move: Red Rover Movement's Community Scavenger Hunt",
+    "description": "",
+    "start": "2026-05-10T14:00:00",
+    "end": null,
+    "location": "Solace Outpost, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/navy-yard-on-the-move-red-rover-movements-community-scavenger-hunt-tickets-1980906870775",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_930973_5904318",
     "title": "DC Delegate Candidate Forum",
-    "description": "Join us on Sunday, May 10 at 1pm at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
+    "description": "Join us on Sunday, May 10 at 12pm at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
     "start": "2026-05-10T16:00:00+00:00",
     "end": "2026-05-10T18:00:00+00:00",
     "location": "St. Coletta of Greater Washington, 1901 Independence Ave SE, Washington, DC",
@@ -63,6 +102,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/ward6demsdc/event/930973/",
     "event_type": "TOWN_HALL",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_7160428551403885686",
+    "title": "No Deals Without Freedom: Free Political Prisoners in China and Hong Kong",
+    "description": "",
+    "start": "2026-05-11T10:00:00",
+    "end": null,
+    "location": "Lafayette Square, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/no-deals-without-freedom-free-political-prisoners-in-china-and-hong-kong-tickets-1988103196178",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   },
   {
     "id": "mob_948564_5972971",
@@ -91,6 +143,19 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
+    "id": "eb_1206602797428977128",
+    "title": "Mother's Day Rally for Online Safety",
+    "description": "",
+    "start": "2026-05-12T11:45:00",
+    "end": null,
+    "location": "United States Capitol, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/mothers-day-rally-for-online-safety-tickets-1988438200184",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_948564_5972972",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -102,6 +167,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_4746501491802986178",
+    "title": "Raising Awareness Community Outreach",
+    "description": "",
+    "start": "2026-05-13T13:00:00",
+    "end": null,
+    "location": "3625 Martin Luther King Jr Ave SE unit 3, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/raising-awareness-community-outreach-tickets-1295773857489",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   },
   {
     "id": "mob_948564_5972973",
@@ -117,6 +195,58 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
+    "id": "eb_1615119845871775781",
+    "title": "Stevie Wonder + Freeman4congress.com Bday Block Party! #weoutside",
+    "description": "",
+    "start": "2026-05-13T18:00:00",
+    "end": null,
+    "location": "14th Street Northwest & U Street Northwest, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/stevie-wonder-freeman4congresscom-bday-block-party-weoutside-tickets-1988417114115",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3151437958505901831",
+    "title": "New Age  Open Mic - Washington DC",
+    "description": "",
+    "start": "2026-05-13T20:00:00",
+    "end": null,
+    "location": "2714 Georgia Ave NW, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/new-age-open-mic-washington-dc-tickets-1980022579837",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5523868603946028202",
+    "title": "Strategic Presence & Self-Advocacy – 1 Day Course, Washington, DC",
+    "description": "",
+    "start": "2026-05-14T09:00:00",
+    "end": null,
+    "location": "regus DC, Washington - 1500 K Street, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.sg/e/strategic-presence-self-advocacy-1-day-course-washington-dc-tickets-1976139263734",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3998015315069645118",
+    "title": "2026 APAICS-PPALM Military Leadership Appreciation Luncheon",
+    "description": "",
+    "start": "2026-05-14T12:00:00",
+    "end": null,
+    "location": "AT&T Forum, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/2026-apaics-ppalm-military-leadership-appreciation-luncheon-tickets-1981587253819",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_948564_5972974",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -128,6 +258,45 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_7379193361371357316",
+    "title": "Resilient Theatre: In Bloom - Sneaker Ball Spring Fundraiser",
+    "description": "",
+    "start": "2026-05-14T18:00:00",
+    "end": null,
+    "location": "Moxy DC - Lucha Rosa Rooftop Bar, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/resilient-theatre-in-bloom-sneaker-ball-spring-fundraiser-tickets-1983876598310",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1616586040846555007",
+    "title": "International Day of Protest Against Shock Treatment Open House",
+    "description": "",
+    "start": "2026-05-15T11:30:00",
+    "end": null,
+    "location": "Founding Church of Scientology, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/international-day-of-protest-against-shock-treatment-open-house-tickets-1987956861487",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "mob_948564_5972975",
+    "title": "Democracy Rally",
+    "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
+    "start": "2026-05-15T13:00:00+00:00",
+    "end": "2026-05-16T03:45:00+00:00",
+    "location": "Constitution Avenue Northwest & Delaware Avenue Northeast, Washington, DC",
+    "organizer": "Organization of Iranian American Communities",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 08, 2026 at 07:27 AM";
+const LAST_UPDATED = "May 08, 2026 at 01:29 PM";
