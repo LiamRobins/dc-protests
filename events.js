@@ -1,18 +1,5 @@
 const EVENTS_DATA = [
   {
-    "id": "mob_948564_5972969",
-    "title": "Democracy Rally",
-    "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
-    "start": "2026-05-09T13:00:00+00:00",
-    "end": "2026-05-10T03:45:00+00:00",
-    "location": "Constitution Avenue Northwest & Delaware Avenue Northeast, Washington, DC",
-    "organizer": "Organization of Iranian American Communities",
-    "organizer_website": "",
-    "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
-    "event_type": "RALLY",
-    "source": "Mobilize.us"
-  },
-  {
     "id": "mob_930965_5904281",
     "title": "DC Mayoral and Attorney General Candidate Forum",
     "description": "Join us on Saturday May 9 from 11am-2pm at Transmission for a candidate forum with the Democratic candidates for the DC mayor's race from 11am-1pm, as well as a candidate forum with the Democratic DC Attorney General candidates from 1-2pm.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
@@ -128,6 +115,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "mob_948564_5972976",
+    "title": "Democracy Rally",
+    "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
+    "start": "2026-05-16T13:00:00+00:00",
+    "end": "2026-05-17T03:45:00+00:00",
+    "location": "Constitution Avenue Northwest & Delaware Avenue Northeast, Washington, DC",
+    "organizer": "Organization of Iranian American Communities",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 09, 2026 at 07:53 AM";
+const LAST_UPDATED = "May 09, 2026 at 01:13 PM";
