@@ -1,18 +1,5 @@
 const EVENTS_DATA = [
   {
-    "id": "mob_930965_5904281",
-    "title": "DC Mayoral and Attorney General Candidate Forum",
-    "description": "Join us on Saturday May 9 from 11am-2pm at Transmission for a candidate forum with the Democratic candidates for the DC mayor's race from 11am-1pm, as well as a candidate forum with the Democratic DC Attorney General candidates from 1-2pm.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
-    "start": "2026-05-09T15:00:00+00:00",
-    "end": "2026-05-09T18:00:00+00:00",
-    "location": "Transmission, 1353 H St NE, Washington, DC",
-    "organizer": "DC Ward 6 Dems",
-    "organizer_website": "",
-    "event_url": "https://www.mobilize.us/ward6demsdc/event/930965/",
-    "event_type": "TOWN_HALL",
-    "source": "Mobilize.us"
-  },
-  {
     "id": "mob_948564_5972970",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -128,6 +115,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "mob_951531_5988466",
+    "title": "McDuffie for Mayor Volunteer Appreciation and GOTV Kickoff Rally",
+    "description": "Join Team McDuffie for a special morning celebrating the volunteers, supporters, and community members who have helped power this campaign since January. \n\nAs we enter the final month before Election Day, we are bringing supporters from across all 8 wards together to launch the next phase of our campaign: Get Out the Vote.\n\nThis event will serve two purposes:\n\n•\tCelebrate and appreciate the work our volunteers have already done\n•\tOrganize and prepare for Early Voting (June 8–14) and Election Day (June 16)\n\nAt the rally, YOU will have the opportunity to:\n\n•\tConnect with volunteers from across the city\n•\tSign up for GOTV activities\n•\tLearn about ward-based volunteer operations\n•\tCommit to shifts for Early Vote and Election Day\n•\tHelp us build toward our goal of 500 volunteers citywide\n\nWhether you’ve been with us since day one or are just getting involved, we want you in the room as we prepare for the final stretch.\n\nLet’s fight and deliver to bring this campaign home together.",
+    "start": "2026-05-16T14:00:00+00:00",
+    "end": "2026-05-16T16:00:00+00:00",
+    "location": "This event’s address is private. Sign up for more details, This event’s address is private. Sign up for more details, Washington, DC",
+    "organizer": "Kenyan McDuffie for Mayor",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/kenyanmcduffieformayor/event/951531/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 09, 2026 at 01:13 PM";
+const LAST_UPDATED = "May 09, 2026 at 06:58 PM";
