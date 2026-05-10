@@ -1,18 +1,5 @@
 const EVENTS_DATA = [
   {
-    "id": "mob_930973_5904318",
-    "title": "DC Delegate Candidate Forum",
-    "description": "Join us on Sunday, May 10 at 12pm at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
-    "start": "2026-05-10T16:00:00+00:00",
-    "end": "2026-05-10T18:00:00+00:00",
-    "location": "St. Coletta of Greater Washington, 1901 Independence Ave SE, Washington, DC",
-    "organizer": "DC Ward 6 Dems",
-    "organizer_website": "",
-    "event_url": "https://www.mobilize.us/ward6demsdc/event/930973/",
-    "event_type": "TOWN_HALL",
-    "source": "Mobilize.us"
-  },
-  {
     "id": "mob_948564_5972971",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -128,6 +115,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/hwd/event/951601/",
     "event_type": "TOWN_HALL",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "mob_931445_5906607",
+    "title": "DC Council At-Large Candidate Forum",
+    "description": "Join us on Sunday, May 17 at 11am at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
+    "start": "2026-05-17T15:00:00+00:00",
+    "end": "2026-05-17T17:00:00+00:00",
+    "location": "St. Coletta of Greater Washington, 1901 Independence Ave SE, Washington, DC",
+    "organizer": "DC Ward 6 Dems",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/ward6demsdc/event/931445/",
+    "event_type": "TOWN_HALL",
+    "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 10, 2026 at 01:13 PM";
+const LAST_UPDATED = "May 10, 2026 at 06:59 PM";
