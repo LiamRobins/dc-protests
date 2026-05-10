@@ -128,6 +128,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/kenyanmcduffieformayor/event/951531/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "mob_951601_5988893",
+    "title": "The chocolate city experience: Mural Reveal",
+    "description": "Join Harriet’s Wildest Dreams as we celebrate community, culture, and Black creativity at the Chocolate City Experience in collaboration with the Anacostia Mural Festival.\n\nOur Executive Director, NeeNee Taylor, a proud Ward 7 native, will be honored during the mural unveiling for her leadership and commitment to Black liberation in DC.\n\nCome through for music, art, hand dancing, double dutch, vendors, games, and performance by TOB Band.",
+    "start": "2026-05-16T20:00:00+00:00",
+    "end": "2026-05-17T01:00:00+00:00",
+    "location": "3935 Minnesota Ave NE, Washington, DC",
+    "organizer": "Harriet’s Wildest Dreams",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/hwd/event/951601/",
+    "event_type": "TOWN_HALL",
+    "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 09, 2026 at 06:58 PM";
+const LAST_UPDATED = "May 10, 2026 at 02:44 AM";
