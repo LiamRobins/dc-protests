@@ -1,31 +1,5 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_3978581159898588723",
-    "title": "Black Mothers March 2026",
-    "description": "",
-    "start": "2026-05-10T11:00:00",
-    "end": null,
-    "location": "Lincoln Memorial, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/black-mothers-march-2026-tickets-1982027506627",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "mob_948564_5972970",
-    "title": "Democracy Rally",
-    "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
-    "start": "2026-05-10T13:00:00+00:00",
-    "end": "2026-05-11T03:45:00+00:00",
-    "location": "Constitution Avenue Northwest & Delaware Avenue Northeast, Washington, DC",
-    "organizer": "Organization of Iranian American Communities",
-    "organizer_website": "",
-    "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
-    "event_type": "RALLY",
-    "source": "Mobilize.us"
-  },
-  {
     "id": "mob_930973_5904318",
     "title": "DC Delegate Candidate Forum",
     "description": "Join us on Sunday, May 10 at 12pm at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
@@ -37,19 +11,6 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/ward6demsdc/event/930973/",
     "event_type": "TOWN_HALL",
     "source": "Mobilize.us"
-  },
-  {
-    "id": "eb_65402857164298153",
-    "title": "No Deals Without Freedom: Free Political Prisoners in China and Hong Kong",
-    "description": "",
-    "start": "2026-05-11T10:00:00",
-    "end": null,
-    "location": "Lafayette Square, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/no-deals-without-freedom-free-political-prisoners-in-china-and-hong-kong-tickets-1988103196178",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
   },
   {
     "id": "mob_948564_5972971",
@@ -78,19 +39,6 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_4420252870932021767",
-    "title": "Mother's Day Rally for Online Safety",
-    "description": "",
-    "start": "2026-05-12T11:45:00",
-    "end": null,
-    "location": "United States Capitol, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/mothers-day-rally-for-online-safety-tickets-1988438200184",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_948564_5972972",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -117,32 +65,6 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_5224807066006856896",
-    "title": "Encore Chorale Washington DC Concert",
-    "description": "",
-    "start": "2026-05-13T19:00:00",
-    "end": null,
-    "location": "Church of the Epiphany, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/encore-chorale-washington-dc-concert-tickets-1984893818844",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_1061054935599765400",
-    "title": "Federal Cyber Resilience Breakfast",
-    "description": "",
-    "start": "2026-05-14T08:00:00",
-    "end": null,
-    "location": "Hotel Washington, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/federal-cyber-resilience-breakfast-registration-1985513169338",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_948564_5972974",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -156,58 +78,6 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_7294428021551338178",
-    "title": "AANHPI Heritage Month 2026 Community Celebration",
-    "description": "",
-    "start": "2026-05-14T17:00:00",
-    "end": null,
-    "location": "UDC Ballroom, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/aanhpi-heritage-month-2026-community-celebration-tickets-1987926314119",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_9039397772900366067",
-    "title": "Cultivating Community: Washington, D.C.",
-    "description": "",
-    "start": "2026-05-14T17:30:00",
-    "end": null,
-    "location": "Farm Credit Council, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/cultivating-community-washington-dc-tickets-1986995151988",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_5213715119598514583",
-    "title": "SWING INTO SPRING!",
-    "description": "",
-    "start": "2026-05-14T18:30:00",
-    "end": null,
-    "location": "The Whittemore House, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/swing-into-spring-tickets-1986645085931",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_6321089973066329649",
-    "title": "International Day of Protest Against Shock Treatment Open House",
-    "description": "",
-    "start": "2026-05-15T11:30:00",
-    "end": null,
-    "location": "Founding Church of Scientology, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/international-day-of-protest-against-shock-treatment-open-house-tickets-1987956861487",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_948564_5972975",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -219,84 +89,6 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
-  },
-  {
-    "id": "eb_899201915683872330",
-    "title": "Stevie Wonder + Freeman4congress.com Bday Block Party! #weoutside",
-    "description": "",
-    "start": "2026-05-15T18:00:00",
-    "end": null,
-    "location": "14th Street Northwest & U Street Northwest, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/stevie-wonder-freeman4congresscom-bday-block-party-weoutside-tickets-1988417114115",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_53767653197026168",
-    "title": "[Capitol Hill] Queer-Run Stand-Up Comedy Show",
-    "description": "",
-    "start": "2026-05-15T20:00:00",
-    "end": null,
-    "location": "as you are. DC, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/capitol-hill-queer-run-stand-up-comedy-show-tickets-1979955135108",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_1432521726928984919",
-    "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
-    "description": "",
-    "start": "2026-05-15T21:00:00",
-    "end": null,
-    "location": "Busboys and Poets, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/3rd-fridays-open-mic-night-brookland-host-mariah-barber-tickets-1054451535929",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_2513255443477915047",
-    "title": "Anacostia River Festival Community Clean-Up",
-    "description": "",
-    "start": "2026-05-16T08:00:00",
-    "end": null,
-    "location": "1800 Anacostia Dr, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/anacostia-river-festival-community-clean-up-tickets-1989032286111",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_1881306782828764005",
-    "title": "Mental Health Community Fair | Health and Wellness",
-    "description": "",
-    "start": "2026-05-16T09:00:00",
-    "end": null,
-    "location": "East Capitol Urban Farm, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/mental-health-community-fair-health-and-wellness-tickets-1986644754941",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_3733803824965950858",
-    "title": "Community Day Health Fair",
-    "description": "",
-    "start": "2026-05-16T10:00:00",
-    "end": null,
-    "location": "Sycamore & Oak, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/community-day-health-fair-tickets-1981546882066",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
   },
   {
     "id": "mob_948564_5972976",
@@ -338,4 +130,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 10, 2026 at 08:05 AM";
+const LAST_UPDATED = "May 10, 2026 at 01:13 PM";
