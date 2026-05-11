@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_6757808570199188595",
+    "id": "eb_2597532901943232338",
     "title": "Mother's Day Rally for Online Safety",
     "description": "",
     "start": "2026-05-12T11:45:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_3604819761960054158",
+    "id": "eb_6924375678234610034",
     "title": "Encore Chorale Washington DC Concert",
     "description": "",
     "start": "2026-05-13T19:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6626010950737929002",
+    "id": "eb_4509865692736640881",
     "title": "Federal Cyber Resilience Breakfast",
     "description": "",
     "start": "2026-05-14T08:00:00",
@@ -91,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_7317275096162977379",
+    "id": "eb_5002476534038674220",
     "title": "AANHPI Heritage Month 2026 Community Celebration",
     "description": "",
     "start": "2026-05-14T17:00:00",
@@ -104,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6993773699958527663",
+    "id": "eb_6434464074741119331",
     "title": "Cultivating Community: Washington, D.C.",
     "description": "",
     "start": "2026-05-14T17:30:00",
@@ -117,7 +117,20 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3429228720709025077",
+    "id": "eb_8037210256008742542",
+    "title": "Resilient Theatre: In Bloom - Sneaker Ball Spring Fundraiser",
+    "description": "",
+    "start": "2026-05-14T18:00:00",
+    "end": null,
+    "location": "Moxy DC - Lucha Rosa Rooftop Bar, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/resilient-theatre-in-bloom-sneaker-ball-spring-fundraiser-tickets-1983876598310",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2077265187007272921",
     "title": "SWING INTO SPRING!",
     "description": "",
     "start": "2026-05-14T18:30:00",
@@ -130,7 +143,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_147609402579195388",
+    "id": "eb_3523253775408276098",
     "title": "International Day of Protest Against Shock Treatment Open House",
     "description": "",
     "start": "2026-05-15T11:30:00",
@@ -156,7 +169,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_6606299521004937027",
+    "id": "eb_5246863708117168672",
     "title": "Stevie Wonder + Freeman4congress.com Bday Block Party! #weoutside",
     "description": "",
     "start": "2026-05-15T18:00:00",
@@ -169,7 +182,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5749416093495906855",
+    "id": "eb_3405463870304806912",
     "title": "[Capitol Hill] Queer-Run Stand-Up Comedy Show",
     "description": "",
     "start": "2026-05-15T20:00:00",
@@ -182,7 +195,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6661869512304118473",
+    "id": "eb_8419625185644916780",
     "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
     "description": "",
     "start": "2026-05-15T21:00:00",
@@ -195,7 +208,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8752061482481141111",
+    "id": "eb_317800589849345200",
     "title": "Anacostia River Festival Community Clean-Up",
     "description": "",
     "start": "2026-05-16T08:00:00",
@@ -208,7 +221,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_9163056346978614407",
+    "id": "eb_4630565603577935476",
     "title": "Mental Health Community Fair | Health and Wellness",
     "description": "",
     "start": "2026-05-16T09:00:00",
@@ -221,7 +234,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8688587238752671370",
+    "id": "eb_7678888698703936074",
     "title": "Community Day Health Fair",
     "description": "",
     "start": "2026-05-16T10:00:00",
@@ -273,7 +286,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_4800048007400865318",
+    "id": "eb_9126834823314563332",
     "title": "2nd Annual Fibroid Awareness Walk",
     "description": "",
     "start": "2026-05-17T09:30:00",
@@ -286,7 +299,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1698341780363032042",
+    "id": "eb_158841054220423018",
     "title": "Space Community Cookout",
     "description": "",
     "start": "2026-05-17T13:00:00",
@@ -312,4 +325,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 11, 2026 at 02:45 PM";
+const LAST_UPDATED = "May 11, 2026 at 07:44 PM";
