@@ -119,9 +119,9 @@ const EVENTS_DATA = [
   {
     "id": "mob_931445_5906607",
     "title": "DC Council At-Large Candidate Forum",
-    "description": "Join us on Sunday, May 17 at 11am at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
-    "start": "2026-05-17T15:00:00+00:00",
-    "end": "2026-05-17T17:00:00+00:00",
+    "description": "Join us on Sunday, May 17 at 12pm at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
+    "start": "2026-05-17T16:00:00+00:00",
+    "end": "2026-05-17T18:00:00+00:00",
     "location": "St. Coletta of Greater Washington, 1901 Independence Ave SE, Washington, DC",
     "organizer": "DC Ward 6 Dems",
     "organizer_website": "",
@@ -130,4 +130,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 10, 2026 at 06:59 PM";
+const LAST_UPDATED = "May 11, 2026 at 02:54 AM";
