@@ -1,31 +1,5 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_7127974307077099724",
-    "title": "Mother's Day Rally for Online Safety",
-    "description": "",
-    "start": "2026-05-12T11:45:00",
-    "end": null,
-    "location": "United States Capitol, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/mothers-day-rally-for-online-safety-tickets-1988438200184",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "mob_948564_5972972",
-    "title": "Democracy Rally",
-    "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
-    "start": "2026-05-12T13:00:00+00:00",
-    "end": "2026-05-13T03:45:00+00:00",
-    "location": "Constitution Avenue Northwest & Delaware Avenue Northeast, Washington, DC",
-    "organizer": "Organization of Iranian American Communities",
-    "organizer_website": "",
-    "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
-    "event_type": "RALLY",
-    "source": "Mobilize.us"
-  },
-  {
     "id": "mob_948564_5972973",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -39,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_7872506811149013099",
+    "id": "eb_2859358023404682547",
     "title": "Encore Chorale Washington DC Concert",
     "description": "",
     "start": "2026-05-13T19:00:00",
@@ -52,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4100388508945561403",
+    "id": "eb_6859512803227635306",
     "title": "Federal Cyber Resilience Breakfast",
     "description": "",
     "start": "2026-05-14T08:00:00",
@@ -78,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_4140348892196671799",
+    "id": "eb_8080887689442787346",
     "title": "AANHPI Heritage Month 2026 Community Celebration",
     "description": "",
     "start": "2026-05-14T17:00:00",
@@ -91,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1240738488943751077",
+    "id": "eb_4869594672353993251",
     "title": "Cultivating Community: Washington, D.C.",
     "description": "",
     "start": "2026-05-14T17:30:00",
@@ -104,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_9158194991076501042",
+    "id": "eb_8538331947909531117",
     "title": "SWING INTO SPRING!",
     "description": "",
     "start": "2026-05-14T18:30:00",
@@ -117,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_9222862329523163943",
+    "id": "eb_7773324990015147790",
     "title": "International Day of Protest Against Shock Treatment Open House",
     "description": "",
     "start": "2026-05-15T11:30:00",
@@ -143,7 +117,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_1346672498579951786",
+    "id": "eb_3621811466470102294",
     "title": "Stevie Wonder + Freeman4congress.com Bday Block Party! #weoutside",
     "description": "",
     "start": "2026-05-15T18:00:00",
@@ -156,7 +130,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7781004777138216342",
+    "id": "eb_912985637992598101",
     "title": "[Capitol Hill] Queer-Run Stand-Up Comedy Show",
     "description": "",
     "start": "2026-05-15T20:00:00",
@@ -169,7 +143,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4878173463337591667",
+    "id": "eb_4694690504260368311",
     "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
     "description": "",
     "start": "2026-05-15T21:00:00",
@@ -182,7 +156,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6290802247358772424",
+    "id": "eb_6726548254322448165",
     "title": "Anacostia River Festival Community Clean-Up",
     "description": "",
     "start": "2026-05-16T08:00:00",
@@ -195,7 +169,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3808139086456267706",
+    "id": "eb_3564289104885023524",
     "title": "Mental Health Community Fair | Health and Wellness",
     "description": "",
     "start": "2026-05-16T09:00:00",
@@ -208,7 +182,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5580360498962988453",
+    "id": "eb_8376833629505909621",
     "title": "Community Day Health Fair",
     "description": "",
     "start": "2026-05-16T10:00:00",
@@ -260,7 +234,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_6981767044639478804",
+    "id": "eb_5482308226969194441",
     "title": "2nd Annual Fibroid Awareness Walk",
     "description": "",
     "start": "2026-05-17T09:30:00",
@@ -273,7 +247,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8227525496522915129",
+    "id": "eb_4203558259890580707",
     "title": "Space Community Cookout",
     "description": "",
     "start": "2026-05-17T13:00:00",
@@ -299,4 +273,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 12, 2026 at 08:37 AM";
+const LAST_UPDATED = "May 12, 2026 at 02:20 PM";
