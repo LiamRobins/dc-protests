@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_2859358023404682547",
+    "id": "eb_3739243261815899916",
     "title": "Encore Chorale Washington DC Concert",
     "description": "",
     "start": "2026-05-13T19:00:00",
@@ -26,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6859512803227635306",
+    "id": "eb_2943672577164405968",
     "title": "Federal Cyber Resilience Breakfast",
     "description": "",
     "start": "2026-05-14T08:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_8080887689442787346",
+    "id": "eb_8130795306920453345",
     "title": "AANHPI Heritage Month 2026 Community Celebration",
     "description": "",
     "start": "2026-05-14T17:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4869594672353993251",
+    "id": "eb_8232208074006361534",
     "title": "Cultivating Community: Washington, D.C.",
     "description": "",
     "start": "2026-05-14T17:30:00",
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8538331947909531117",
+    "id": "eb_8243911659399427355",
     "title": "SWING INTO SPRING!",
     "description": "",
     "start": "2026-05-14T18:30:00",
@@ -91,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7773324990015147790",
+    "id": "eb_6011000450573955165",
     "title": "International Day of Protest Against Shock Treatment Open House",
     "description": "",
     "start": "2026-05-15T11:30:00",
@@ -117,7 +117,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_3621811466470102294",
+    "id": "eb_2288758142197383746",
     "title": "Stevie Wonder + Freeman4congress.com Bday Block Party! #weoutside",
     "description": "",
     "start": "2026-05-15T18:00:00",
@@ -130,7 +130,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_912985637992598101",
+    "id": "eb_3869229786596098155",
     "title": "[Capitol Hill] Queer-Run Stand-Up Comedy Show",
     "description": "",
     "start": "2026-05-15T20:00:00",
@@ -143,7 +143,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4694690504260368311",
+    "id": "eb_2930234621783551496",
     "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
     "description": "",
     "start": "2026-05-15T21:00:00",
@@ -156,7 +156,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6726548254322448165",
+    "id": "eb_1726262523518199850",
     "title": "Anacostia River Festival Community Clean-Up",
     "description": "",
     "start": "2026-05-16T08:00:00",
@@ -169,7 +169,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3564289104885023524",
+    "id": "eb_2238440986364591979",
     "title": "Mental Health Community Fair | Health and Wellness",
     "description": "",
     "start": "2026-05-16T09:00:00",
@@ -182,7 +182,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8376833629505909621",
+    "id": "eb_1890453843608073188",
     "title": "Community Day Health Fair",
     "description": "",
     "start": "2026-05-16T10:00:00",
@@ -234,7 +234,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_5482308226969194441",
+    "id": "eb_3170211071773331647",
     "title": "2nd Annual Fibroid Awareness Walk",
     "description": "",
     "start": "2026-05-17T09:30:00",
@@ -247,7 +247,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4203558259890580707",
+    "id": "eb_5302726995874292893",
     "title": "Space Community Cookout",
     "description": "",
     "start": "2026-05-17T13:00:00",
@@ -271,6 +271,45 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/ward6demsdc/event/931445/",
     "event_type": "TOWN_HALL",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_8995685705973189126",
+    "title": "FY27 Community Development Grant Pre-Bidders Conference",
+    "description": "",
+    "start": "2026-05-19T10:00:00",
+    "end": null,
+    "location": "Martin Luther King Jr. Memorial Library, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/fy27-community-development-grant-pre-bidders-conference-tickets-1988338123853",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_486761362051827689",
+    "title": "Pride Poetry Workshop: Resistance",
+    "description": "",
+    "start": "2026-05-19T18:30:00",
+    "end": null,
+    "location": "Arts Club of Washington, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/pride-poetry-workshop-resistance-tickets-1968863169741",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8577954565655464752",
+    "title": "Encore ROCKS Alexandria and Mather Concert",
+    "description": "",
+    "start": "2026-05-19T19:00:00",
+    "end": null,
+    "location": "The George Washington Masonic National Memorial, Alexandria",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/encore-rocks-alexandria-and-mather-concert-tickets-1985087244385",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "May 12, 2026 at 02:20 PM";
+const LAST_UPDATED = "May 12, 2026 at 07:48 PM";
