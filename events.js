@@ -13,6 +13,45 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
+    "id": "eb_1326837062482424350",
+    "title": "Why Guido Climbed the Bridge: War, Resistance and Future Collective Action",
+    "description": "",
+    "start": "2026-05-13T18:30:00",
+    "end": null,
+    "location": "Busboys and Poets 450K, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/why-guido-climbed-the-bridge-war-resistance-and-future-collective-action-tickets-1989193658781",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4857272095733619992",
+    "title": "Encore Chorale Washington DC Concert",
+    "description": "",
+    "start": "2026-05-13T19:00:00",
+    "end": null,
+    "location": "Church of the Epiphany, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/encore-chorale-washington-dc-concert-tickets-1984893818844",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7733113710709459721",
+    "title": "Federal Cyber Resilience Breakfast",
+    "description": "",
+    "start": "2026-05-14T08:00:00",
+    "end": null,
+    "location": "Hotel Washington, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/federal-cyber-resilience-breakfast-registration-1985513169338",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_948564_5972974",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -26,6 +65,58 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
+    "id": "eb_7826408612212511392",
+    "title": "AANHPI Heritage Month 2026 Community Celebration",
+    "description": "",
+    "start": "2026-05-14T17:00:00",
+    "end": null,
+    "location": "UDC Ballroom, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/aanhpi-heritage-month-2026-community-celebration-tickets-1987926314119",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7367522257936848039",
+    "title": "Cultivating Community: Washington, D.C.",
+    "description": "",
+    "start": "2026-05-14T17:30:00",
+    "end": null,
+    "location": "Farm Credit Council, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/cultivating-community-washington-dc-tickets-1986995151988",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7801920424397896111",
+    "title": "SWING INTO SPRING!",
+    "description": "",
+    "start": "2026-05-14T18:30:00",
+    "end": null,
+    "location": "The Whittemore House, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/swing-into-spring-tickets-1986645085931",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_633555943172929068",
+    "title": "International Day of Protest Against Shock Treatment Open House",
+    "description": "",
+    "start": "2026-05-15T11:30:00",
+    "end": null,
+    "location": "Founding Church of Scientology, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/international-day-of-protest-against-shock-treatment-open-house-tickets-1987956861487",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_948564_5972975",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -37,6 +128,84 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_8809135454378575016",
+    "title": "Stevie Wonder + Freeman4congress.com Bday Block Party! #weoutside",
+    "description": "",
+    "start": "2026-05-15T18:00:00",
+    "end": null,
+    "location": "14th Street Northwest & U Street Northwest, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/stevie-wonder-freeman4congresscom-bday-block-party-weoutside-tickets-1988417114115",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3665376114271142222",
+    "title": "[Capitol Hill] Queer-Run Stand-Up Comedy Show",
+    "description": "",
+    "start": "2026-05-15T20:00:00",
+    "end": null,
+    "location": "as you are. DC, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/capitol-hill-queer-run-stand-up-comedy-show-tickets-1979955135108",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6458417071649627405",
+    "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
+    "description": "",
+    "start": "2026-05-15T21:00:00",
+    "end": null,
+    "location": "Busboys and Poets, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/3rd-fridays-open-mic-night-brookland-host-mariah-barber-tickets-1054451535929",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7997842862763978316",
+    "title": "Anacostia River Festival Community Clean-Up",
+    "description": "",
+    "start": "2026-05-16T08:00:00",
+    "end": null,
+    "location": "1800 Anacostia Dr, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/anacostia-river-festival-community-clean-up-tickets-1989032286111",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2554998460334833690",
+    "title": "Mental Health Community Fair | Health and Wellness",
+    "description": "",
+    "start": "2026-05-16T09:00:00",
+    "end": null,
+    "location": "East Capitol Urban Farm, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/mental-health-community-fair-health-and-wellness-tickets-1986644754941",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6809697440682922035",
+    "title": "Community Day Health Fair",
+    "description": "",
+    "start": "2026-05-16T10:00:00",
+    "end": null,
+    "location": "Sycamore & Oak, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-day-health-fair-tickets-1981546882066",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   },
   {
     "id": "mob_948564_5972976",
@@ -78,6 +247,32 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
+    "id": "eb_2417129770972340236",
+    "title": "2nd Annual Fibroid Awareness Walk",
+    "description": "",
+    "start": "2026-05-17T09:30:00",
+    "end": null,
+    "location": "National Museum of African American History and Culture, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/2nd-annual-fibroid-awareness-walk-tickets-1985653154036",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2815706179569719386",
+    "title": "Space Community Cookout",
+    "description": "",
+    "start": "2026-05-17T13:00:00",
+    "end": null,
+    "location": "Fort Washington Park, Fort Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/space-community-cookout-tickets-1986691657227",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_931445_5906607",
     "title": "DC Council At-Large Candidate Forum",
     "description": "Join us on Sunday, May 17 at 12pm at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
@@ -89,6 +284,45 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/ward6demsdc/event/931445/",
     "event_type": "TOWN_HALL",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_5864084503730277042",
+    "title": "FY27 Community Development Grant Pre-Bidders Conference",
+    "description": "",
+    "start": "2026-05-19T10:00:00",
+    "end": null,
+    "location": "Martin Luther King Jr. Memorial Library, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/fy27-community-development-grant-pre-bidders-conference-tickets-1988338123853",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7578134960954126467",
+    "title": "Pride Poetry Workshop: Resistance",
+    "description": "",
+    "start": "2026-05-19T18:30:00",
+    "end": null,
+    "location": "Arts Club of Washington, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/pride-poetry-workshop-resistance-tickets-1968863169741",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1703922739907507596",
+    "title": "Encore ROCKS Alexandria and Mather Concert",
+    "description": "",
+    "start": "2026-05-19T19:00:00",
+    "end": null,
+    "location": "The George Washington Masonic National Memorial, Alexandria",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/encore-rocks-alexandria-and-mather-concert-tickets-1985087244385",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "May 13, 2026 at 02:51 AM";
+const LAST_UPDATED = "May 13, 2026 at 08:42 AM";
