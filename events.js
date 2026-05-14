@@ -1,44 +1,5 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_9047345225077395648",
-    "title": "AANHPI Heritage Month 2026 Community Celebration",
-    "description": "",
-    "start": "2026-05-14T17:00:00",
-    "end": null,
-    "location": "UDC Ballroom, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/aanhpi-heritage-month-2026-community-celebration-tickets-1987926314119",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_3259493382256293373",
-    "title": "SWING INTO SPRING!",
-    "description": "",
-    "start": "2026-05-14T18:30:00",
-    "end": null,
-    "location": "The Whittemore House, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/swing-into-spring-tickets-1986645085931",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_9004763218506787557",
-    "title": "International Day of Protest Against Shock Treatment Open House",
-    "description": "",
-    "start": "2026-05-15T11:30:00",
-    "end": null,
-    "location": "Founding Church of Scientology, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/international-day-of-protest-against-shock-treatment-open-house-tickets-1987956861487",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_948564_5972975",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -50,71 +11,6 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/organizationofiranianamericancommunities/event/948564/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
-  },
-  {
-    "id": "eb_2943787026669865711",
-    "title": "[Capitol Hill] Queer-Run Stand-Up Comedy Show",
-    "description": "",
-    "start": "2026-05-15T20:00:00",
-    "end": null,
-    "location": "as you are. DC, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/capitol-hill-queer-run-stand-up-comedy-show-tickets-1979955135108",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_2527763322033808571",
-    "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
-    "description": "",
-    "start": "2026-05-15T21:00:00",
-    "end": null,
-    "location": "Busboys and Poets, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/3rd-fridays-open-mic-night-brookland-host-mariah-barber-tickets-1054451535929",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_8302236636235071902",
-    "title": "Anacostia River Festival Community Clean-Up",
-    "description": "",
-    "start": "2026-05-16T08:00:00",
-    "end": null,
-    "location": "1800 Anacostia Dr, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/anacostia-river-festival-community-clean-up-tickets-1989032286111",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_109399295061095065",
-    "title": "Mental Health Community Fair | Health and Wellness",
-    "description": "",
-    "start": "2026-05-16T09:00:00",
-    "end": null,
-    "location": "East Capitol Urban Farm, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/mental-health-community-fair-health-and-wellness-tickets-1986644754941",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_6280394560059097936",
-    "title": "Community Day Health Fair",
-    "description": "",
-    "start": "2026-05-16T10:00:00",
-    "end": null,
-    "location": "Sycamore & Oak, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/community-day-health-fair-tickets-1981546882066",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
   },
   {
     "id": "mob_948564_5972976",
@@ -156,19 +52,6 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_5124912356755770280",
-    "title": "2nd Annual Fibroid Awareness Walk",
-    "description": "",
-    "start": "2026-05-17T09:30:00",
-    "end": null,
-    "location": "National Museum of African American History and Culture, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/2nd-annual-fibroid-awareness-walk-tickets-1985653154036",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_931445_5906607",
     "title": "DC Council At-Large Candidate Forum",
     "description": "Join us on Sunday, May 17 at 12pm at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
@@ -180,71 +63,6 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/ward6demsdc/event/931445/",
     "event_type": "TOWN_HALL",
     "source": "Mobilize.us"
-  },
-  {
-    "id": "eb_1642498692512286755",
-    "title": "FY27 Community Development Grant Pre-Bidders Conference",
-    "description": "",
-    "start": "2026-05-19T10:00:00",
-    "end": null,
-    "location": "Martin Luther King Jr. Memorial Library, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/fy27-community-development-grant-pre-bidders-conference-tickets-1988338123853",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_8584164557795374205",
-    "title": "Pride Poetry Workshop: Resistance",
-    "description": "",
-    "start": "2026-05-19T18:30:00",
-    "end": null,
-    "location": "Arts Club of Washington, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/pride-poetry-workshop-resistance-tickets-1968863169741",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_3831776881609636717",
-    "title": "Encore ROCKS Alexandria and Mather Concert",
-    "description": "",
-    "start": "2026-05-19T19:00:00",
-    "end": null,
-    "location": "The George Washington Masonic National Memorial, Alexandria",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/encore-rocks-alexandria-and-mather-concert-tickets-1985087244385",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_8422839815435802371",
-    "title": "May 20: DC EcoWomen Community Happy Hour",
-    "description": "",
-    "start": "2026-05-20T18:00:00",
-    "end": null,
-    "location": "SALAZAR, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/may-20-dc-ecowomen-community-happy-hour-tickets-1987613938796",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_649343644641037213",
-    "title": "Bra & Order: Civil Libertease | A Burlesque and Variety Fundraiser",
-    "description": "",
-    "start": "2026-05-20T19:30:00",
-    "end": null,
-    "location": "DC Comedy Loft and Bier Baron Tavern, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/bra-order-civil-libertease-a-burlesque-and-variety-fundraiser-tickets-1962699470952",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "May 14, 2026 at 02:05 PM";
+const LAST_UPDATED = "May 14, 2026 at 07:43 PM";
