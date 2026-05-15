@@ -13,58 +13,6 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_7839622387321386022",
-    "title": "Anacostia River Festival Community Clean-Up",
-    "description": "",
-    "start": "2026-05-16T08:00:00",
-    "end": null,
-    "location": "1800 Anacostia Dr, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/anacostia-river-festival-community-clean-up-tickets-1989032286111",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_1738587909690781843",
-    "title": "Mental Health Community Fair | Health and Wellness",
-    "description": "",
-    "start": "2026-05-16T09:00:00",
-    "end": null,
-    "location": "East Capitol Urban Farm, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/mental-health-community-fair-health-and-wellness-tickets-1986644754941",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_4427349902437273784",
-    "title": "Community Day Health Fair",
-    "description": "",
-    "start": "2026-05-16T10:00:00",
-    "end": null,
-    "location": "Sycamore & Oak, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/community-day-health-fair-tickets-1981546882066",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_6196968408407939698",
-    "title": "International Day of Protest Against Shock Treatment Open House",
-    "description": "",
-    "start": "2026-05-16T11:30:00",
-    "end": null,
-    "location": "Founding Church of Scientology, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/international-day-of-protest-against-shock-treatment-open-house-tickets-1987956861487",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_948564_5972976",
     "title": "Democracy Rally",
     "description": "A peaceful, permitted demonstration calling for an end to executions in Iran, the release of political prisoners, and support for the Iranian people in establishing a democratic, non-nuclear republic that lives in friendship and peaceful coexistence with the international community.\nThis demonstration brings together people from all segments of Iranian society, regardless of religion or beliefs.",
@@ -91,19 +39,6 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_3548332787149957338",
-    "title": "[Capitol Hill] Queer-Run Stand-Up Comedy Show",
-    "description": "",
-    "start": "2026-05-16T20:00:00",
-    "end": null,
-    "location": "as you are. DC, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/capitol-hill-queer-run-stand-up-comedy-show-tickets-1979955135108",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_951601_5988893",
     "title": "The chocolate city experience: Mural Reveal",
     "description": "Join Harriet’s Wildest Dreams as we celebrate community, culture, and Black creativity at the Chocolate City Experience in collaboration with the Anacostia Mural Festival.\n\nOur Executive Director, NeeNee Taylor, a proud Ward 7 native, will be honored during the mural unveiling for her leadership and commitment to Black liberation in DC.\n\nCome through for music, art, hand dancing, double dutch, vendors, games, and performance by TOB Band.",
@@ -117,32 +52,6 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_4982585667098876287",
-    "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
-    "description": "",
-    "start": "2026-05-16T21:00:00",
-    "end": null,
-    "location": "Busboys and Poets, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/3rd-fridays-open-mic-night-brookland-host-mariah-barber-tickets-1054451535929",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_2602308456756109642",
-    "title": "2nd Annual Fibroid Awareness Walk",
-    "description": "",
-    "start": "2026-05-17T09:30:00",
-    "end": null,
-    "location": "National Museum of African American History and Culture, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/2nd-annual-fibroid-awareness-walk-tickets-1985653154036",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_931445_5906607",
     "title": "DC Council At-Large Candidate Forum",
     "description": "Join us on Sunday, May 17 at 12pm at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates for DC Congressional Delegate.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
@@ -154,71 +63,6 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/ward6demsdc/event/931445/",
     "event_type": "TOWN_HALL",
     "source": "Mobilize.us"
-  },
-  {
-    "id": "eb_362431258716240419",
-    "title": "FY27 Community Development Grant Pre-Bidders Conference",
-    "description": "",
-    "start": "2026-05-19T10:00:00",
-    "end": null,
-    "location": "Martin Luther King Jr. Memorial Library, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/fy27-community-development-grant-pre-bidders-conference-tickets-1988338123853",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_8523942949640773941",
-    "title": "Pride Poetry Workshop: Resistance",
-    "description": "",
-    "start": "2026-05-19T18:30:00",
-    "end": null,
-    "location": "Arts Club of Washington, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/pride-poetry-workshop-resistance-tickets-1968863169741",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_994386533264822443",
-    "title": "Encore ROCKS Alexandria and Mather Concert",
-    "description": "",
-    "start": "2026-05-19T19:00:00",
-    "end": null,
-    "location": "The George Washington Masonic National Memorial, Alexandria",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/encore-rocks-alexandria-and-mather-concert-tickets-1985087244385",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_175515369765412181",
-    "title": "May 20: DC EcoWomen Community Happy Hour",
-    "description": "",
-    "start": "2026-05-20T18:00:00",
-    "end": null,
-    "location": "SALAZAR, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/may-20-dc-ecowomen-community-happy-hour-tickets-1987613938796",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_2857968050459662873",
-    "title": "Bra & Order: Civil Libertease | A Burlesque and Variety Fundraiser",
-    "description": "",
-    "start": "2026-05-20T19:30:00",
-    "end": null,
-    "location": "DC Comedy Loft and Bier Baron Tavern, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/bra-order-civil-libertease-a-burlesque-and-variety-fundraiser-tickets-1962699470952",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "May 15, 2026 at 02:55 AM";
+const LAST_UPDATED = "May 15, 2026 at 08:46 AM";
