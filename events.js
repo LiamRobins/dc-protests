@@ -1,18 +1,5 @@
 const EVENTS_DATA = [
   {
-    "id": "mob_951531_5988466",
-    "title": "McDuffie for Mayor Volunteer Appreciation and GOTV Kickoff Rally",
-    "description": "Join Team McDuffie for a special morning celebrating the volunteers, supporters, and community members who have helped power this campaign since January. \n\nAs we enter the final month before Election Day, we are bringing supporters from across all 8 wards together to launch the next phase of our campaign: Get Out the Vote.\n\nThis event will serve two purposes:\n\n•\tCelebrate and appreciate the work our volunteers have already done\n•\tOrganize and prepare for Early Voting (June 8–14) and Election Day (June 16)\n\nAt the rally, YOU will have the opportunity to:\n\n•\tConnect with volunteers from across the city\n•\tSign up for GOTV activities\n•\tLearn about ward-based volunteer operations\n•\tCommit to shifts for Early Vote and Election Day\n•\tHelp us build toward our goal of 500 volunteers citywide\n\nWhether you’ve been with us since day one or are just getting involved, we want you in the room as we prepare for the final stretch.\n\nLet’s fight and deliver to bring this campaign home together.",
-    "start": "2026-05-16T14:00:00+00:00",
-    "end": "2026-05-16T16:00:00+00:00",
-    "location": "This event’s address is private. Sign up for more details, This event’s address is private. Sign up for more details, Washington, DC",
-    "organizer": "Kenyan McDuffie for Mayor",
-    "organizer_website": "",
-    "event_url": "https://www.mobilize.us/kenyanmcduffieformayor/event/951531/",
-    "event_type": "RALLY",
-    "source": "Mobilize.us"
-  },
-  {
     "id": "mob_951601_5988893",
     "title": "The chocolate city experience: Mural Reveal",
     "description": "Join Harriet’s Wildest Dreams as we celebrate community, culture, and Black creativity at the Chocolate City Experience in collaboration with the Anacostia Mural Festival.\n\nOur Executive Director, NeeNee Taylor, a proud Ward 7 native, will be honored during the mural unveiling for her leadership and commitment to Black liberation in DC.\n\nCome through for music, art, hand dancing, double dutch, vendors, games, and performance by TOB Band.",
@@ -39,4 +26,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "May 16, 2026 at 01:17 PM";
+const LAST_UPDATED = "May 16, 2026 at 07:01 PM";
