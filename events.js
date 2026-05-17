@@ -1,31 +1,5 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_7689444241147477950",
-    "title": "Mu Lambda Chapter - ALPHA MOVE - SPRING 2026",
-    "description": "",
-    "start": "2026-05-17T09:00:00",
-    "end": null,
-    "location": "Anacostia Park Roller Skating Pavillion, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/mu-lambda-chapter-alpha-move-spring-2026-registration-1987850653817",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_5643821089410866362",
-    "title": "2nd Annual Fibroid Awareness Walk",
-    "description": "",
-    "start": "2026-05-17T09:30:00",
-    "end": null,
-    "location": "National Museum of African American History and Culture, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/2nd-annual-fibroid-awareness-walk-tickets-1985653154036",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_931445_5906607",
     "title": "DC Council At-Large Candidate Forum",
     "description": "Join us on Sunday, May 17 at 12pm at St. Coletta of Greater Washington for a candidate forum with the Democratic candidates running for DC Council At-Large.\n\nSubmit your questions in advance to debate@hillrag.com.\n\nThis event is co-hosted by the DC Democrats, the Ward 6 Democrats, the Ward 7 Democrats, the Ward 2 Democrats, Capital Community News (the Hill Rag, East of the River News, and Midcity DC News), Spotlight DC, and Transmission.",
@@ -39,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_216909116787875923",
+    "id": "eb_6148887123270381206",
     "title": "FY27 Community Development Grant Pre-Bidders Conference",
     "description": "",
     "start": "2026-05-19T10:00:00",
@@ -52,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2813795239960974807",
+    "id": "eb_5365637412366591547",
     "title": "Pride Poetry Workshop: Resistance",
     "description": "",
     "start": "2026-05-19T18:30:00",
@@ -65,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_321199164381332489",
+    "id": "eb_1923663704643434488",
     "title": "Encore ROCKS Alexandria and Mather Concert",
     "description": "",
     "start": "2026-05-19T19:00:00",
@@ -78,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8745498441367228017",
+    "id": "eb_8471004694181471906",
     "title": "May 20: DC EcoWomen Community Happy Hour",
     "description": "",
     "start": "2026-05-20T18:00:00",
@@ -91,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5698858140860053040",
+    "id": "eb_6815729440379694494",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-05-20T18:00:00",
@@ -104,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1092464235323234074",
+    "id": "eb_8994617581016628795",
     "title": "Bra & Order: Civil Libertease | A Burlesque and Variety Fundraiser",
     "description": "",
     "start": "2026-05-20T19:30:00",
@@ -117,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1055864510014409566",
+    "id": "eb_5485147128918214179",
     "title": "Universal Language: a Community Concert for Good",
     "description": "",
     "start": "2026-05-22T17:00:00",
@@ -130,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5014678600673060244",
+    "id": "eb_6715771986453152850",
     "title": "4th Friday Open Mic | Brookland| Hosted by Casey Catherine Moore",
     "description": "",
     "start": "2026-05-22T21:00:00",
@@ -143,7 +117,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8923753770538648954",
+    "id": "eb_1680156574836002356",
     "title": "SHRED WALK: A 10K STEP WALK FOR WOMEN",
     "description": "",
     "start": "2026-05-23T09:00:00",
@@ -156,7 +130,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_9004319882123393478",
+    "id": "eb_87937855062055689",
     "title": "Meditate with a Monk at the Washington Monument",
     "description": "",
     "start": "2026-05-23T09:30:00",
@@ -169,7 +143,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3214847120754608960",
+    "id": "eb_2300502873786242936",
     "title": "Community Healing Day: Root, Rise & Restore Together",
     "description": "",
     "start": "2026-05-23T10:00:00",
@@ -182,7 +156,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8846252778621093418",
+    "id": "eb_1744186962628569711",
     "title": "Polo & Prosecco Classic : A Memorial Weekend Affair",
     "description": "",
     "start": "2026-05-23T12:00:00",
@@ -195,4 +169,4 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "May 17, 2026 at 08:19 AM";
+const LAST_UPDATED = "May 17, 2026 at 01:15 PM";
