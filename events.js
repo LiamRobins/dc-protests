@@ -1,6 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_7749000363375657624",
+    "id": "eb_3138152998899561977",
     "title": "FY27 Community Development Grant Pre-Bidders Conference",
     "description": "",
     "start": "2026-05-19T10:00:00",
@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8021520909830636595",
+    "id": "eb_7146131789751280852",
     "title": "Pride Poetry Workshop: Resistance",
     "description": "",
     "start": "2026-05-19T18:30:00",
@@ -26,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1032882668412298946",
+    "id": "eb_3566847592441413915",
     "title": "Encore ROCKS Alexandria and Mather Concert",
     "description": "",
     "start": "2026-05-19T19:00:00",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4657602451375776487",
+    "id": "eb_7726154834344472626",
     "title": "May 20: DC EcoWomen Community Happy Hour",
     "description": "",
     "start": "2026-05-20T18:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5714778793664964774",
+    "id": "eb_5899143840805039276",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-05-20T18:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6622042484677764580",
+    "id": "eb_3897706455700916321",
     "title": "Bra & Order: Civil Libertease | A Burlesque and Variety Fundraiser",
     "description": "",
     "start": "2026-05-20T19:30:00",
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_129476839134661867",
+    "id": "eb_3262829832281791067",
     "title": "Universal Language: a Community Concert for Good",
     "description": "",
     "start": "2026-05-22T17:00:00",
@@ -91,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5226662173574190503",
+    "id": "eb_8792409475917458125",
     "title": "4th Friday Open Mic | Brookland| Hosted by Casey Catherine Moore",
     "description": "",
     "start": "2026-05-22T21:00:00",
@@ -104,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8661437368715405832",
+    "id": "eb_3441722354964005463",
     "title": "SHRED WALK: A 10K STEP WALK FOR WOMEN",
     "description": "",
     "start": "2026-05-23T09:00:00",
@@ -117,7 +117,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8382910878895418431",
+    "id": "eb_5509478463354648704",
     "title": "Meditate with a Monk at the Washington Monument",
     "description": "",
     "start": "2026-05-23T09:30:00",
@@ -130,7 +130,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6274534291923406240",
+    "id": "eb_2146512126235219483",
     "title": "Community Day: Service & Connection",
     "description": "",
     "start": "2026-05-23T10:00:00",
@@ -143,7 +143,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_9007355785311884473",
+    "id": "eb_1805858581513303391",
     "title": "Polo & Prosecco Classic : A Memorial Weekend Affair",
     "description": "",
     "start": "2026-05-23T12:00:00",
@@ -154,19 +154,6 @@ const EVENTS_DATA = [
     "event_url": "https://www.eventbrite.com/e/polo-prosecco-classic-a-memorial-weekend-affair-tickets-1985165880588",
     "event_type": "EVENT",
     "source": "Eventbrite"
-  },
-  {
-    "id": "eb_2901350568640313490",
-    "title": "Lotus Flower Bomb Release Party: A First Taste of Urban Garden Brewhouse",
-    "description": "",
-    "start": "2026-05-23T16:00:00",
-    "end": null,
-    "location": "Urban Garden Brewhouse, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/lotus-flower-bomb-release-party-a-first-taste-of-urban-garden-brewhouse-tickets-1989031103574",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "May 17, 2026 at 07:06 PM";
+const LAST_UPDATED = "May 18, 2026 at 03:29 AM";
