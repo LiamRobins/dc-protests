@@ -1,2 +1,146 @@
-const EVENTS_DATA = [];
-const LAST_UPDATED = "May 19, 2026 at 09:39 AM";
+const EVENTS_DATA = [
+  {
+    "id": "eb_4068620316455635975",
+    "title": "Pride Poetry Workshop: Resistance",
+    "description": "",
+    "start": "2026-05-19T18:30:00",
+    "end": null,
+    "location": "Arts Club of Washington, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/pride-poetry-workshop-resistance-tickets-1968863169741",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4146520914993068894",
+    "title": "Encore ROCKS Alexandria and Mather Concert",
+    "description": "",
+    "start": "2026-05-19T19:00:00",
+    "end": null,
+    "location": "The George Washington Masonic National Memorial, Alexandria",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/encore-rocks-alexandria-and-mather-concert-tickets-1985087244385",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7504995392341537801",
+    "title": "May 20: DC EcoWomen Community Happy Hour",
+    "description": "",
+    "start": "2026-05-20T18:00:00",
+    "end": null,
+    "location": "SALAZAR, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/may-20-dc-ecowomen-community-happy-hour-tickets-1987613938796",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6665373456335246159",
+    "title": "LGBTQ+ Community Happy Hour @ Spark Social",
+    "description": "",
+    "start": "2026-05-20T18:00:00",
+    "end": null,
+    "location": "Spark Social, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1988858918564",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4753472885287916066",
+    "title": "Bra & Order: Civil Libertease | A Burlesque and Variety Fundraiser",
+    "description": "",
+    "start": "2026-05-20T19:30:00",
+    "end": null,
+    "location": "DC Comedy Loft and Bier Baron Tavern, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/bra-order-civil-libertease-a-burlesque-and-variety-fundraiser-tickets-1962699470952",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1316966355623221201",
+    "title": "Live Recording:  \"The Collision — Where Sports and Politics Collide\"",
+    "description": "",
+    "start": "2026-05-21T19:00:00",
+    "end": null,
+    "location": "Busboys and Poets 14th & V, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/live-recording-the-collision-where-sports-and-politics-collide-tickets-1989765308601",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5203307794018665341",
+    "title": "Universal Language: a Community Concert for Good",
+    "description": "",
+    "start": "2026-05-22T17:00:00",
+    "end": null,
+    "location": "Edmund Burke School, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/universal-language-a-community-concert-for-good-tickets-1989188961732",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4527777146800970131",
+    "title": "4th Friday Open Mic | Brookland| Hosted by Casey Catherine Moore",
+    "description": "",
+    "start": "2026-05-22T21:00:00",
+    "end": null,
+    "location": "Brookland, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/4th-friday-open-mic-brookland-hosted-by-casey-catherine-moore-tickets-1054455367389",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7450090935421810554",
+    "title": "SHRED WALK: A 10K STEP WALK FOR WOMEN",
+    "description": "",
+    "start": "2026-05-23T09:00:00",
+    "end": null,
+    "location": "Downtown, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/shred-walk-a-10k-step-walk-for-women-tickets-1988451239184",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8162774466646547336",
+    "title": "Meditate with a Monk at the Washington Monument",
+    "description": "",
+    "start": "2026-05-23T09:30:00",
+    "end": null,
+    "location": "Sylvan Theater, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/meditate-with-a-monk-at-the-washington-monument-registration-1988322105943",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7778643030953005388",
+    "title": "Community Day: Service & Connection",
+    "description": "",
+    "start": "2026-05-23T10:00:00",
+    "end": null,
+    "location": "Temple Mother Earth, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-day-service-connection-registration-1125787734419",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  }
+];
+const LAST_UPDATED = "May 19, 2026 at 02:57 PM";
