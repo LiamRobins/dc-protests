@@ -1,2 +1,107 @@
-const EVENTS_DATA = [];
-const LAST_UPDATED = "May 23, 2026 at 08:16 AM";
+const EVENTS_DATA = [
+  {
+    "id": "eb_5578646322300400989",
+    "title": "MELT. An Anti-Ice Variety Show.",
+    "description": "",
+    "start": "2026-05-23T19:30:00",
+    "end": null,
+    "location": "City-State Public House, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/melt-an-anti-ice-variety-show-tickets-1988451678498",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5074608488319382720",
+    "title": "Retail Task Force: Crime Prevention, 1 Day Training in Washington, DC",
+    "description": "",
+    "start": "2026-05-27T09:00:00",
+    "end": null,
+    "location": "1500 K St NW, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.sg/e/retail-task-force-crime-prevention-1-day-training-in-washington-dc-tickets-1978363631879",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6996780504333601612",
+    "title": "Advocacy In Action 2026",
+    "description": "",
+    "start": "2026-05-28T16:00:00",
+    "end": null,
+    "location": "1225 New York Ave NW, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/advocacy-in-action-2026-tickets-1986454849930",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6273872090262879866",
+    "title": "PROTEST: RESPECT IT, DEFEND IT, USE IT | Busboys and Poets Books",
+    "description": "",
+    "start": "2026-05-28T18:00:00",
+    "end": null,
+    "location": "Busboys and Poets 14th & V, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/protest-respect-it-defend-it-use-it-busboys-and-poets-books-tickets-1985156544664",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3934478848829233892",
+    "title": "5th Friday Open Mic | Brookland| Hosted by Casey Catherine Moore",
+    "description": "",
+    "start": "2026-05-29T21:00:00",
+    "end": null,
+    "location": "Busboys and Poets, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/5th-friday-open-mic-brookland-hosted-by-casey-catherine-moore-tickets-1980753481985",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6903689333758277218",
+    "title": "Walk-A-Thon DC Tour",
+    "description": "",
+    "start": "2026-05-30T08:30:00",
+    "end": null,
+    "location": "Brookland Station, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/walk-a-thon-dc-tour-tickets-1989767104974",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_87459930797652771",
+    "title": "SHRED WALK: A 10K STEP WALK FOR WOMEN",
+    "description": "",
+    "start": "2026-05-30T09:00:00",
+    "end": null,
+    "location": "Downtown, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/shred-walk-a-10k-step-walk-for-women-tickets-1988451239184",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8377550875662740429",
+    "title": "United States of Biafra Memorial Day Event",
+    "description": "",
+    "start": "2026-05-30T10:00:00",
+    "end": null,
+    "location": "1726 Connecticut Ave NW, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/united-states-of-biafra-memorial-day-event-tickets-1987105789909",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  }
+];
+const LAST_UPDATED = "May 23, 2026 at 01:20 PM";
