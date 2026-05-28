@@ -1,9 +1,9 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_7610183403537242072",
+    "id": "eb_7315864845539335631",
     "title": "Advocacy In Action 2026",
     "description": "",
-    "start": "2026-05-29T16:00:00",
+    "start": "2026-05-28T16:00:00",
     "end": null,
     "location": "1225 New York Ave NW, Washington",
     "organizer": "",
@@ -13,10 +13,10 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2095823250831692802",
+    "id": "eb_7690418821112697469",
     "title": "PROTEST: RESPECT IT, DEFEND IT, USE IT | Busboys and Poets Books",
     "description": "",
-    "start": "2026-05-29T18:00:00",
+    "start": "2026-05-28T18:00:00",
     "end": null,
     "location": "Busboys and Poets 14th & V, Washington",
     "organizer": "",
@@ -26,20 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2025417273011990208",
-    "title": "Opening Reception | Vessel: To Hold and be Held by Rose Jaffe",
-    "description": "",
-    "start": "2026-05-29T18:00:00",
-    "end": null,
-    "location": "Goethe-Institut Washington, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/opening-reception-vessel-to-hold-and-be-held-by-rose-jaffe-tickets-1989615044156",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_6343084303012146682",
+    "id": "eb_8827524375888376913",
     "title": "5th Friday Open Mic | Brookland| Hosted by Casey Catherine Moore",
     "description": "",
     "start": "2026-05-29T21:00:00",
@@ -52,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8516273491049049687",
+    "id": "eb_593193368836303308",
     "title": "Walk-A-Thon DC Tour",
     "description": "",
     "start": "2026-05-30T08:30:00",
@@ -65,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1163168256633088429",
+    "id": "eb_8851210474133625799",
     "title": "SHRED WALK: A 10K STEP WALK FOR WOMEN",
     "description": "",
     "start": "2026-05-30T09:00:00",
@@ -78,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1346747615105635402",
+    "id": "eb_447645221337505684",
     "title": "United States of Biafra Memorial Day Event",
     "description": "",
     "start": "2026-05-30T10:00:00",
@@ -91,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_294259680289727606",
+    "id": "eb_6533427150529508438",
     "title": "Hamilton 4 DC Mayor 2026 Community Fundraiser Gala & Awards Ceremony",
     "description": "",
     "start": "2026-05-30T17:00:00",
@@ -104,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3009026049627563874",
+    "id": "eb_5575697260914241684",
     "title": "LGBTQ+ Community Coffee and Conversation @ as you are.",
     "description": "",
     "start": "2026-05-31T12:00:00",
@@ -117,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5579822797261487620",
+    "id": "eb_8574706143636153830",
     "title": "We RISE Together ALL WHITE Rooftop Affair",
     "description": "",
     "start": "2026-05-31T17:00:00",
@@ -130,7 +117,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6599960970077157171",
+    "id": "eb_8858892790461686654",
     "title": "A Collaborative Community Happy Hour",
     "description": "",
     "start": "2026-06-01T17:00:00",
@@ -143,4 +130,4 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "May 28, 2026 at 02:54 AM";
+const LAST_UPDATED = "May 28, 2026 at 09:57 AM";
