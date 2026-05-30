@@ -1,19 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_3552746495531042701",
-    "title": "Hamilton 4 DC Mayor 2026 Community Fundraiser Gala & Awards Ceremony",
-    "description": "",
-    "start": "2026-05-30T17:00:00",
-    "end": null,
-    "location": "Thurgood Marshall Center for Service and Heritage, Washington",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/hamilton-4-dc-mayor-2026-community-fundraiser-gala-awards-ceremony-tickets-1988178141341",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_2901602464730216483",
+    "id": "eb_4101284809620140178",
     "title": "BASHMENT | SUMMER KICKOFF",
     "description": "",
     "start": "2026-05-30T22:00:00",
@@ -26,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5997545010844675068",
+    "id": "eb_5052972073531375418",
     "title": "LGBTQ+ Community Coffee and Conversation @ as you are.",
     "description": "",
     "start": "2026-05-31T12:00:00",
@@ -39,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5871008547105525944",
+    "id": "eb_4838792310970930454",
     "title": "We RISE Together ALL WHITE Rooftop Affair",
     "description": "",
     "start": "2026-05-31T17:00:00",
@@ -52,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_798452010051276525",
+    "id": "eb_8273656410964230939",
     "title": "A Collaborative Community Happy Hour",
     "description": "",
     "start": "2026-06-01T17:00:00",
@@ -76,6 +63,32 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/publiccitizen/event/961185/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_2644315625841226457",
+    "title": "Compliance Strategy for Executives 1 Day Training – Washington, D.C.",
+    "description": "",
+    "start": "2026-06-03T09:00:00",
+    "end": null,
+    "location": "For venue information, Please contact us: info@skelora.com, Washington, D.C",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/compliance-strategy-for-executives-1-day-training-washington-dc-tickets-1990074925674",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2704881311006285084",
+    "title": "Smart Negotiation Strategies   1 Day Workshop in  Washington, D.C",
+    "description": "",
+    "start": "2026-06-05T09:00:00",
+    "end": null,
+    "location": "For venue information, Please contact us: info@skelora.com, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/smart-negotiation-strategies-1-day-workshop-in-washington-dc-tickets-1989143662240",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "May 30, 2026 at 01:24 PM";
+const LAST_UPDATED = "May 30, 2026 at 07:10 PM";
