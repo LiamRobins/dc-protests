@@ -1,5 +1,18 @@
 const EVENTS_DATA = [
   {
+    "id": "eb_6551870992026142287",
+    "title": "A Collaborative Community Happy Hour",
+    "description": "",
+    "start": "2026-06-01T17:00:00",
+    "end": null,
+    "location": "BUDDY'S DC, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/a-collaborative-community-happy-hour-tickets-1989938181669",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_961185_6028928",
     "title": "Say No to Trump's Corrupt Slush Fund!",
     "description": "President Donald Trump is trying to steal $1.8 billion from the American people to reward his political allies and insurrectionists who attacked the Capitol on January 6, 2021. \n\nJoin Public Citizen, Common Cause and other allies in opposing this illegal and corrupt slush fund. \n\nSpeakers will include members of Congress including Senator Sheldon Whitehouse as well as plaintiffs in the recent lawsuits against the slush fund.",
@@ -11,6 +24,97 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/publiccitizen/event/961185/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_5507890702668593698",
+    "title": "Beyond the Motion: Live Debate and Panel",
+    "description": "",
+    "start": "2026-06-03T17:30:00",
+    "end": null,
+    "location": "Arena Stage at the Mead Center for American Theater, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/beyond-the-motion-live-debate-and-panel-tickets-1990528095116",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7808459863766340874",
+    "title": "Smart Negotiation Strategies   1 Day Workshop in  Washington, D.C",
+    "description": "",
+    "start": "2026-06-05T09:00:00",
+    "end": null,
+    "location": "For venue information, Please contact us: info@skelora.com, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/smart-negotiation-strategies-1-day-workshop-in-washington-dc-tickets-1989143662240",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1780724629310680160",
+    "title": "People vs. Politics Documentary Community Screening",
+    "description": "",
+    "start": "2026-06-05T17:30:00",
+    "end": null,
+    "location": "THEARC: Town Hall Education Arts Recreation Campus, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/people-vs-politics-documentary-community-screening-tickets-1990417116175",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8428506850209272764",
+    "title": "Growing Community:  Gardens as Sites of Community",
+    "description": "",
+    "start": "2026-06-06T10:00:00",
+    "end": null,
+    "location": "Smithsonian's Anacostia Community Museum, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/growing-community-gardens-as-sites-of-community-tickets-1984523254476",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5317055707539867892",
+    "title": "The TEEN New Deal / USA250 COUNTDOWN & RALLY",
+    "description": "",
+    "start": "2026-06-06T10:30:00",
+    "end": null,
+    "location": "Martin Luther King Jr. Memorial Library - AUDITORIUM 5th Floor, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/the-teen-new-deal-usa250-countdown-rally-tickets-1982695961995",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3598547291958553983",
+    "title": "UFC Freedom 250 Fan Fest & The Daniel Cormier Show VIP Giveaways",
+    "description": "",
+    "start": "2026-06-06T16:00:00",
+    "end": null,
+    "location": "820 H St NE, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/ufc-freedom-250-fan-fest-the-daniel-cormier-show-vip-giveaways-tickets-1990591426542",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1194869182171913902",
+    "title": "Pure Poetry Live ft. AJ McQueen ( All WHITE ANNIVERSARY)",
+    "description": "",
+    "start": "2026-06-06T19:00:00",
+    "end": null,
+    "location": "Karma DC Live Music Venue, Washington",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/pure-poetry-live-ft-aj-mcqueen-all-white-anniversary-tickets-1989674854049",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 01, 2026 at 03:50 AM";
+const LAST_UPDATED = "June 01, 2026 at 11:29 AM";
