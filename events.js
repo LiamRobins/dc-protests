@@ -1,2 +1,146 @@
-const EVENTS_DATA = [];
-const LAST_UPDATED = "June 05, 2026 at 09:42 AM";
+const EVENTS_DATA = [
+  {
+    "id": "eb_1877046356623500238",
+    "title": "People vs. Politics Documentary Community Screening",
+    "description": "",
+    "start": "2026-06-05T17:30:00",
+    "end": null,
+    "location": "THEARC Black Box Theater, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/people-vs-politics-documentary-community-screening-tickets-1990417116175",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4619835093774671980",
+    "title": "Community Rent Party for Haven",
+    "description": "",
+    "start": "2026-06-05T20:00:00",
+    "end": null,
+    "location": "1378 H St NE, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-rent-party-for-haven-tickets-1990833437403",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4354409443539329567",
+    "title": "Growing Community:  Gardens as Sites of Community",
+    "description": "",
+    "start": "2026-06-06T10:00:00",
+    "end": null,
+    "location": "Smithsonian's Anacostia Community Museum, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/growing-community-gardens-as-sites-of-community-tickets-1984523254476",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3106403928826381915",
+    "title": "Community Yard Sale",
+    "description": "",
+    "start": "2026-06-06T11:00:00",
+    "end": null,
+    "location": "1725 Michigan Ave NE, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-yard-sale-tickets-1990361330318",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6731269468676038253",
+    "title": "UFC Freedom 250 Fan Fest & The Daniel Cormier Show VIP Giveaways",
+    "description": "",
+    "start": "2026-06-06T16:00:00",
+    "end": null,
+    "location": "820 H St NE, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/ufc-freedom-250-fan-fest-the-daniel-cormier-show-vip-giveaways-tickets-1990591426542",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4172671873052372399",
+    "title": "National Trails Day + Brown People Camping Community Hike",
+    "description": "",
+    "start": "2026-06-06T17:00:00",
+    "end": null,
+    "location": "Peirce Mill & Picnic Grove #1, Rock Creek Park, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/national-trails-day-brown-people-camping-community-hike-tickets-1990880010705",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7707624385135944077",
+    "title": "Community Celebration Neighborhood Party",
+    "description": "",
+    "start": "2026-06-07T12:00:00",
+    "end": null,
+    "location": "Touchstone Gallery, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-celebration-neighborhood-party-tickets-1990698311237",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5295735706171428033",
+    "title": "Community Forum & Scholarship Program",
+    "description": "",
+    "start": "2026-06-07T14:00:00",
+    "end": null,
+    "location": "1251 Saratoga Ave NE, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-forum-scholarship-program-tickets-1987682742590",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8695506956972072298",
+    "title": "Community Yoga + Potluck Gathering",
+    "description": "",
+    "start": "2026-06-07T16:00:00",
+    "end": null,
+    "location": "Columbia Heights Green, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-yoga-potluck-gathering-tickets-1989156055308",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8018151497367826735",
+    "title": "Find a Cofounder, Help or Join a Startup",
+    "description": "",
+    "start": "2026-06-10T18:00:00",
+    "end": null,
+    "location": "The Yard - Coworking Office Space Washington D.C., Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/find-a-cofounder-help-or-join-a-startup-tickets-1990203781084",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8387137348903689482",
+    "title": "AU Community Liaison Committee Meeting (CLC)",
+    "description": "",
+    "start": "2026-06-10T18:00:00",
+    "end": null,
+    "location": "SIS Abramson Family Founders Room, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/au-community-liaison-committee-meeting-clc-tickets-1989326573332",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  }
+];
+const LAST_UPDATED = "June 05, 2026 at 02:46 PM";
