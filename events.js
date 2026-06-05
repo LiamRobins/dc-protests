@@ -1,32 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_1877046356623500238",
-    "title": "People vs. Politics Documentary Community Screening",
-    "description": "",
-    "start": "2026-06-05T17:30:00",
-    "end": null,
-    "location": "THEARC Black Box Theater, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/people-vs-politics-documentary-community-screening-tickets-1990417116175",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_4619835093774671980",
-    "title": "Community Rent Party for Haven",
-    "description": "",
-    "start": "2026-06-05T20:00:00",
-    "end": null,
-    "location": "1378 H St NE, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/community-rent-party-for-haven-tickets-1990833437403",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_4354409443539329567",
+    "id": "eb_4757671804495967038",
     "title": "Growing Community:  Gardens as Sites of Community",
     "description": "",
     "start": "2026-06-06T10:00:00",
@@ -39,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3106403928826381915",
+    "id": "eb_7321022185785119537",
     "title": "Community Yard Sale",
     "description": "",
     "start": "2026-06-06T11:00:00",
@@ -52,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6731269468676038253",
+    "id": "eb_859280882726070958",
     "title": "UFC Freedom 250 Fan Fest & The Daniel Cormier Show VIP Giveaways",
     "description": "",
     "start": "2026-06-06T16:00:00",
@@ -65,20 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4172671873052372399",
-    "title": "National Trails Day + Brown People Camping Community Hike",
-    "description": "",
-    "start": "2026-06-06T17:00:00",
-    "end": null,
-    "location": "Peirce Mill & Picnic Grove #1, Rock Creek Park, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/national-trails-day-brown-people-camping-community-hike-tickets-1990880010705",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_7707624385135944077",
+    "id": "eb_2529364586790037165",
     "title": "Community Celebration Neighborhood Party",
     "description": "",
     "start": "2026-06-07T12:00:00",
@@ -91,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5295735706171428033",
+    "id": "eb_2652892927321200793",
     "title": "Community Forum & Scholarship Program",
     "description": "",
     "start": "2026-06-07T14:00:00",
@@ -104,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8695506956972072298",
+    "id": "eb_8729971642825589265",
     "title": "Community Yoga + Potluck Gathering",
     "description": "",
     "start": "2026-06-07T16:00:00",
@@ -117,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8018151497367826735",
+    "id": "eb_3047105926007039334",
     "title": "Find a Cofounder, Help or Join a Startup",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -130,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8387137348903689482",
+    "id": "eb_4307763818310196094",
     "title": "AU Community Liaison Committee Meeting (CLC)",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -143,4 +104,4 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 05, 2026 at 02:46 PM";
+const LAST_UPDATED = "June 05, 2026 at 07:51 PM";
