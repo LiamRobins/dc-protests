@@ -1,32 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_3956321163633530556",
-    "title": "Community Forum & Scholarship Program",
-    "description": "",
-    "start": "2026-06-07T14:00:00",
-    "end": null,
-    "location": "1251 Saratoga Ave NE, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/community-forum-scholarship-program-tickets-1987682742590",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_4101745969994564993",
-    "title": "Community Yoga + Potluck Gathering",
-    "description": "",
-    "start": "2026-06-07T16:00:00",
-    "end": null,
-    "location": "Columbia Heights Green, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/community-yoga-potluck-gathering-tickets-1989156055308",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_8121240786808764192",
+    "id": "eb_4147330504790098713",
     "title": "Find a Cofounder, Help or Join a Startup",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -39,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3218977016499563637",
+    "id": "eb_1848533547086098386",
     "title": "AU Community Liaison Committee Meeting (CLC)",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -52,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7856597660892545631",
+    "id": "eb_3703540915584894542",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -65,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2103361181056120042",
+    "id": "eb_713745647320066377",
     "title": "Downtown Day Services Center Summer Community Engagement Event",
     "description": "",
     "start": "2026-06-12T11:00:00",
@@ -76,6 +50,71 @@ const EVENTS_DATA = [
     "event_url": "https://www.eventbrite.com/e/downtown-day-services-center-summer-community-engagement-event-tickets-1990659365750",
     "event_type": "EVENT",
     "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2808071010045154778",
+    "title": "Solutions to Heal and Restore the Soul of our Community Conference",
+    "description": "",
+    "start": "2026-06-13T09:00:00",
+    "end": null,
+    "location": "601 Howard Pl NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/solutions-to-heal-and-restore-the-soul-of-our-community-conference-tickets-1990144105593",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4768807689945911718",
+    "title": "New Date - Meditate with a Monk at the Washington Monument",
+    "description": "",
+    "start": "2026-06-13T09:30:00",
+    "end": null,
+    "location": "Sylvan Theater, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/new-date-meditate-with-a-monk-at-the-washington-monument-registration-1988322105943",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3553534953814168965",
+    "title": "Community Day: Service & Connection",
+    "description": "",
+    "start": "2026-06-13T10:00:00",
+    "end": null,
+    "location": "Temple Mother Earth, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-day-service-connection-registration-1125787734419",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2459901741143137575",
+    "title": "June 7DC Demo Day!  Sat. 6/13 @ 7DrumCity",
+    "description": "",
+    "start": "2026-06-13T11:00:00",
+    "end": null,
+    "location": "7DrumCity, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/june-7dc-demo-day-sat-613-7drumcity-registration-1989939248861",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5517252398445175474",
+    "title": "Community Picnic -  Momentum Education Washington DC",
+    "description": "",
+    "start": "2026-06-13T11:00:00",
+    "end": null,
+    "location": "Columbia Island Marina, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-picnic-momentum-education-washington-dc-tickets-1988520727024",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 07, 2026 at 01:48 PM";
+const LAST_UPDATED = "June 07, 2026 at 07:19 PM";
