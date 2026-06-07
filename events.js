@@ -1,9 +1,9 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_6490621682352983784",
+    "id": "eb_8298964483757166819",
     "title": "Community Celebration Neighborhood Party",
     "description": "",
-    "start": "2026-06-08T12:00:00",
+    "start": "2026-06-07T12:00:00",
     "end": null,
     "location": "Touchstone Gallery, Washington Â",
     "organizer": "",
@@ -13,10 +13,10 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7968614074111462384",
+    "id": "eb_523159033813977203",
     "title": "Community Yoga + Potluck Gathering",
     "description": "",
-    "start": "2026-06-08T16:00:00",
+    "start": "2026-06-07T16:00:00",
     "end": null,
     "location": "Columbia Heights Green, Washington Â",
     "organizer": "",
@@ -26,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2695157252691345518",
+    "id": "eb_6764114459468104627",
     "title": "Find a Cofounder, Help or Join a Startup",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7208233023791090221",
+    "id": "eb_8932921672705989551",
     "title": "AU Community Liaison Committee Meeting (CLC)",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7854075052794666693",
+    "id": "eb_8010314401858747830",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6440731777310806186",
+    "id": "eb_8119785694069279967",
     "title": "Downtown Day Services Center Summer Community Engagement Event",
     "description": "",
     "start": "2026-06-12T11:00:00",
@@ -78,4 +78,4 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 07, 2026 at 03:39 AM";
+const LAST_UPDATED = "June 07, 2026 at 08:53 AM";
