@@ -1,19 +1,19 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_8298964483757166819",
-    "title": "Community Celebration Neighborhood Party",
+    "id": "eb_3956321163633530556",
+    "title": "Community Forum & Scholarship Program",
     "description": "",
-    "start": "2026-06-07T12:00:00",
+    "start": "2026-06-07T14:00:00",
     "end": null,
-    "location": "Touchstone Gallery, Washington Â",
+    "location": "1251 Saratoga Ave NE, Washington Â",
     "organizer": "",
     "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/community-celebration-neighborhood-party-tickets-1990698311237",
+    "event_url": "https://www.eventbrite.com/e/community-forum-scholarship-program-tickets-1987682742590",
     "event_type": "EVENT",
     "source": "Eventbrite"
   },
   {
-    "id": "eb_523159033813977203",
+    "id": "eb_4101745969994564993",
     "title": "Community Yoga + Potluck Gathering",
     "description": "",
     "start": "2026-06-07T16:00:00",
@@ -26,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6764114459468104627",
+    "id": "eb_8121240786808764192",
     "title": "Find a Cofounder, Help or Join a Startup",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8932921672705989551",
+    "id": "eb_3218977016499563637",
     "title": "AU Community Liaison Committee Meeting (CLC)",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8010314401858747830",
+    "id": "eb_7856597660892545631",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-06-10T18:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8119785694069279967",
+    "id": "eb_2103361181056120042",
     "title": "Downtown Day Services Center Summer Community Engagement Event",
     "description": "",
     "start": "2026-06-12T11:00:00",
@@ -78,4 +78,4 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 07, 2026 at 08:53 AM";
+const LAST_UPDATED = "June 07, 2026 at 01:48 PM";
