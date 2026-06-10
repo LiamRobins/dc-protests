@@ -1,9 +1,9 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_6180128956908798162",
+    "id": "eb_8333449155966223657",
     "title": "Find a Cofounder, Help or Join a Startup",
     "description": "",
-    "start": "2026-06-10T18:00:00",
+    "start": "2026-06-11T18:00:00",
     "end": null,
     "location": "The Yard - Coworking Office Space Washington D.C., Washington Â",
     "organizer": "",
@@ -13,10 +13,10 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8269482541198454525",
+    "id": "eb_6290533657739628265",
     "title": "AU Community Liaison Committee Meeting (CLC)",
     "description": "",
-    "start": "2026-06-10T18:00:00",
+    "start": "2026-06-11T18:00:00",
     "end": null,
     "location": "SIS Abramson Family Founders Room, Washington Â",
     "organizer": "",
@@ -26,10 +26,10 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6215929125010402706",
+    "id": "eb_8496199730470611829",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
-    "start": "2026-06-10T18:00:00",
+    "start": "2026-06-11T18:00:00",
     "end": null,
     "location": "Spark Social, Washington Â",
     "organizer": "",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7105126041143141468",
+    "id": "eb_4307994522833005774",
     "title": "Downtown Day Services Center Summer Community Engagement Event",
     "description": "",
     "start": "2026-06-12T11:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2527524344098153591",
+    "id": "eb_3679925667625049743",
     "title": "Solutions to Heal and Restore the Soul of our Community Conference",
     "description": "",
     "start": "2026-06-13T09:00:00",
@@ -65,20 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4400400425897442700",
-    "title": "New Date - Meditate with a Monk at the Washington Monument",
-    "description": "",
-    "start": "2026-06-13T09:30:00",
-    "end": null,
-    "location": "Sylvan Theater, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/new-date-meditate-with-a-monk-at-the-washington-monument-registration-1988322105943",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_775482709764843905",
+    "id": "eb_4785788058117574783",
     "title": "Community Day: Service & Connection",
     "description": "",
     "start": "2026-06-13T10:00:00",
@@ -91,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_921245718740601041",
+    "id": "eb_4690073215640356478",
     "title": "Community Picnic -  Momentum Education Washington DC",
     "description": "",
     "start": "2026-06-13T11:00:00",
@@ -104,20 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4085482896966101298",
-    "title": "FlowWell Fundraiser Community Class @ Union Market",
-    "description": "",
-    "start": "2026-06-14T11:30:00",
-    "end": null,
-    "location": "The Plaza Union Market, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/flowwell-fundraiser-community-class-union-market-tickets-1990886210248",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_2408241466344829796",
+    "id": "eb_8265247464235574461",
     "title": "Explore! Museum Presents....Let's Dig! Community Garden",
     "description": "",
     "start": "2026-06-14T12:00:00",
@@ -130,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1199744069514903215",
+    "id": "eb_5515463419909579071",
     "title": "Bike Ride to the Polls & Happy Hour for DC Primary Season",
     "description": "",
     "start": "2026-06-14T14:00:00",
@@ -139,19 +113,6 @@ const EVENTS_DATA = [
     "organizer": "",
     "organizer_website": "",
     "event_url": "https://www.eventbrite.com/e/bike-ride-to-the-polls-happy-hour-for-dc-primary-season-tickets-1991462477880",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_4836420297638670130",
-    "title": "EL EDEN",
-    "description": "",
-    "start": "2026-06-14T16:00:00",
-    "end": null,
-    "location": "2015 Massachusetts Ave NW, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/el-eden-tickets-1991239329437",
     "event_type": "EVENT",
     "source": "Eventbrite"
   },
@@ -169,4 +130,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "June 09, 2026 at 08:05 PM";
+const LAST_UPDATED = "June 10, 2026 at 03:30 AM";
