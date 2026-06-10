@@ -1,9 +1,9 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_8333449155966223657",
+    "id": "eb_7455523177868347775",
     "title": "Find a Cofounder, Help or Join a Startup",
     "description": "",
-    "start": "2026-06-11T18:00:00",
+    "start": "2026-06-10T18:00:00",
     "end": null,
     "location": "The Yard - Coworking Office Space Washington D.C., Washington Â",
     "organizer": "",
@@ -13,10 +13,10 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6290533657739628265",
+    "id": "eb_8172364448079077020",
     "title": "AU Community Liaison Committee Meeting (CLC)",
     "description": "",
-    "start": "2026-06-11T18:00:00",
+    "start": "2026-06-10T18:00:00",
     "end": null,
     "location": "SIS Abramson Family Founders Room, Washington Â",
     "organizer": "",
@@ -26,10 +26,10 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8496199730470611829",
+    "id": "eb_6985430737386019655",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
-    "start": "2026-06-11T18:00:00",
+    "start": "2026-06-10T18:00:00",
     "end": null,
     "location": "Spark Social, Washington Â",
     "organizer": "",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4307994522833005774",
+    "id": "eb_2335450844790804731",
     "title": "Downtown Day Services Center Summer Community Engagement Event",
     "description": "",
     "start": "2026-06-12T11:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3679925667625049743",
+    "id": "eb_6665929694116010871",
     "title": "Solutions to Heal and Restore the Soul of our Community Conference",
     "description": "",
     "start": "2026-06-13T09:00:00",
@@ -65,7 +65,20 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4785788058117574783",
+    "id": "eb_3680868264788843911",
+    "title": "New Date - Meditate with a Monk at the Washington Monument",
+    "description": "",
+    "start": "2026-06-13T09:30:00",
+    "end": null,
+    "location": "Sylvan Theater, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/new-date-meditate-with-a-monk-at-the-washington-monument-registration-1988322105943",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_9080458674681420940",
     "title": "Community Day: Service & Connection",
     "description": "",
     "start": "2026-06-13T10:00:00",
@@ -78,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4690073215640356478",
+    "id": "eb_6981886830809070973",
     "title": "Community Picnic -  Momentum Education Washington DC",
     "description": "",
     "start": "2026-06-13T11:00:00",
@@ -91,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8265247464235574461",
+    "id": "eb_7054537397446436932",
     "title": "Explore! Museum Presents....Let's Dig! Community Garden",
     "description": "",
     "start": "2026-06-14T12:00:00",
@@ -104,7 +117,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5515463419909579071",
+    "id": "eb_8899013565980548077",
     "title": "Bike Ride to the Polls & Happy Hour for DC Primary Season",
     "description": "",
     "start": "2026-06-14T14:00:00",
@@ -113,6 +126,19 @@ const EVENTS_DATA = [
     "organizer": "",
     "organizer_website": "",
     "event_url": "https://www.eventbrite.com/e/bike-ride-to-the-polls-happy-hour-for-dc-primary-season-tickets-1991462477880",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4447729073469853928",
+    "title": "EL EDEN",
+    "description": "",
+    "start": "2026-06-14T16:00:00",
+    "end": null,
+    "location": "2015 Massachusetts Ave NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/el-eden-tickets-1991239329437",
     "event_type": "EVENT",
     "source": "Eventbrite"
   },
@@ -128,6 +154,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/unitedwedream/event/969938/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_5024296028702498148",
+    "title": "Screen-Print + World Cup Watch Party",
+    "description": "",
+    "start": "2026-06-15T21:00:00",
+    "end": null,
+    "location": "Right Proper - Kitchen, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/screen-print-world-cup-watch-party-tickets-1990787410736",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 10, 2026 at 03:30 AM";
+const LAST_UPDATED = "June 10, 2026 at 09:55 AM";
