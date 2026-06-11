@@ -1,5 +1,122 @@
 const EVENTS_DATA = [
   {
+    "id": "eb_4528541520091212285",
+    "title": "Community Happy Hour",
+    "description": "",
+    "start": "2026-06-11T17:00:00",
+    "end": null,
+    "location": "Atlas Brew Works Bridge District Brewery & Tap Room, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-happy-hour-tickets-1991000841112",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6985994596981701019",
+    "title": "Downtown Day Services Center Summer Community Engagement Event",
+    "description": "",
+    "start": "2026-06-12T11:00:00",
+    "end": null,
+    "location": "Downtown Day Services Center, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/downtown-day-services-center-summer-community-engagement-event-tickets-1990659365750",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3555934546520531622",
+    "title": "Solutions to Heal and Restore the Soul of our Community Conference",
+    "description": "",
+    "start": "2026-06-13T09:00:00",
+    "end": null,
+    "location": "601 Howard Pl NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/solutions-to-heal-and-restore-the-soul-of-our-community-conference-tickets-1990144105593",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5937658460665435938",
+    "title": "Community Day: Service & Connection",
+    "description": "",
+    "start": "2026-06-13T10:00:00",
+    "end": null,
+    "location": "Temple Mother Earth, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-day-service-connection-registration-1125787734419",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5749545821737295387",
+    "title": "Community Picnic -  Momentum Education Washington DC",
+    "description": "",
+    "start": "2026-06-13T11:00:00",
+    "end": null,
+    "location": "Columbia Island Marina, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-picnic-momentum-education-washington-dc-tickets-1988520727024",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7816819392217103413",
+    "title": "R&B x RosÃ© Picnic | National RosÃ© Day",
+    "description": "",
+    "start": "2026-06-13T14:00:00",
+    "end": null,
+    "location": "The Parks Historic Walter Reed, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/rb-x-rose-picnic-national-rose-day-tickets-1987766198208",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_833576875809290050",
+    "title": "Explore! Museum Presents....Let's Dig! Community Garden",
+    "description": "",
+    "start": "2026-06-14T12:00:00",
+    "end": null,
+    "location": "395 Ingraham St NE, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/explore-museum-presentslets-dig-community-garden-tickets-1990539059912",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3830464050531068148",
+    "title": "Bike Ride to the Polls & Happy Hour for DC Primary Season",
+    "description": "",
+    "start": "2026-06-14T14:00:00",
+    "end": null,
+    "location": "Franklin Park, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/bike-ride-to-the-polls-happy-hour-for-dc-primary-season-tickets-1991462477880",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_9178236222422371703",
+    "title": "EL EDEN",
+    "description": "",
+    "start": "2026-06-14T16:00:00",
+    "end": null,
+    "location": "2015 Massachusetts Ave NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/el-eden-tickets-1991239329437",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_969938_6065042",
     "title": "Home is Here: Stop Delegalization Efforts and Deliver Citizenship Now",
     "description": "### **June 15 will mark 14 years since immigrant youth organized & won DACA protections!** \n\nNow, our communities face the most dangerous moment in DACA’s history. From renewal delays to the detention and deportation of DACA recipients, we’re witnessing mass delegalization efforts that put our families and future on the line. \n\nAt the same time, the Supreme Court is expected to make major decisions on birthright citizenship and TPS that could place millions more at risk of deportation and family separation. This moment is bigger than DACA, bigger than any one community, and calls on ALL of us to come together to protect one another.\n\n**On June 15, join Home is Here in a peaceful rally to call for a pathway to citizenship that protects our safety and stability!**\n\nTogether, let’s honor 14 years of resilience while calling for the permanent protections our communities need: \n\n- 📅 Date: Monday, June 15 \n- 🕒 Time: 2:00 pm - 4:30 pm ET \n- 📍 Location: Washington, DC \n\n**RSVP today for more details!** See you there!",
@@ -11,6 +128,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/unitedwedream/event/969938/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_2814572565316188962",
+    "title": "Screen-Print + World Cup Watch Party",
+    "description": "",
+    "start": "2026-06-15T21:00:00",
+    "end": null,
+    "location": "Right Proper - Kitchen, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/screen-print-world-cup-watch-party-tickets-1990787410736",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 11, 2026 at 03:42 AM";
+const LAST_UPDATED = "June 11, 2026 at 10:19 AM";
