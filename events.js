@@ -11,6 +11,110 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/unitedwedream/event/969938/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_1112594213101041891",
+    "title": "Screen-Print + World Cup Watch Party",
+    "description": "",
+    "start": "2026-06-15T21:00:00",
+    "end": null,
+    "location": "Right Proper - Kitchen, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/screen-print-world-cup-watch-party-tickets-1990787410736",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2616267072595798194",
+    "title": "New Age  Open Mic - Washington DC",
+    "description": "",
+    "start": "2026-06-17T19:00:00",
+    "end": null,
+    "location": "2714 Georgia Ave NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/new-age-open-mic-washington-dc-tickets-1980022579837",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3481413830697979308",
+    "title": "The Family Reunion Rooftop day party",
+    "description": "",
+    "start": "2026-06-19T15:00:00",
+    "end": null,
+    "location": "Zebbie's Garden, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/the-family-reunion-rooftop-day-party-tickets-1990688585146",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6269892850286268918",
+    "title": "Indepen'Dance: Civic Season Lounge",
+    "description": "",
+    "start": "2026-06-19T17:00:00",
+    "end": null,
+    "location": "Smithsonian National Museum of American History, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/independance-civic-season-lounge-tickets-1990792270271",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1037994106090636785",
+    "title": "African American Music Appreciation Month - Performances",
+    "description": "",
+    "start": "2026-06-19T17:00:00",
+    "end": null,
+    "location": "Eastern Market Metro Plaza Park, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/african-american-music-appreciation-month-performances-tickets-1395282821479",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4814411194682995022",
+    "title": "Freedom to Express: Juneteenth Poetry Slam | Anacostia | Host: Mal Prac",
+    "description": "",
+    "start": "2026-06-19T20:00:00",
+    "end": null,
+    "location": "Busboys and Poets, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/freedom-to-express-juneteenth-poetry-slam-anacostia-host-mal-prac-tickets-1991295391119",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_818802675411542267",
+    "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
+    "description": "",
+    "start": "2026-06-19T21:00:00",
+    "end": null,
+    "location": "Busboys and Poets, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/3rd-fridays-open-mic-night-brookland-host-mariah-barber-tickets-1054451535929",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_906310615944070605",
+    "title": "Juneteenth Jamboree 2026",
+    "description": "",
+    "start": "2026-06-20T12:00:00",
+    "end": null,
+    "location": "Thurgood Marshall Child Development Center, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/juneteenth-jamboree-2026-tickets-1988942728241",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 14, 2026 at 01:58 PM";
+const LAST_UPDATED = "June 14, 2026 at 07:23 PM";
