@@ -13,10 +13,10 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_1112594213101041891",
+    "id": "eb_2295309977990407376",
     "title": "Screen-Print + World Cup Watch Party",
     "description": "",
-    "start": "2026-06-15T21:00:00",
+    "start": "2026-06-16T21:00:00",
     "end": null,
     "location": "Right Proper - Kitchen, Washington Â",
     "organizer": "",
@@ -26,7 +26,20 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2616267072595798194",
+    "id": "eb_6596730131269081286",
+    "title": "LGBTQ+ Community Happy Hour @ Spark Social",
+    "description": "",
+    "start": "2026-06-17T18:00:00",
+    "end": null,
+    "location": "Spark Social, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1991327100964",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6577558302201068662",
     "title": "New Age  Open Mic - Washington DC",
     "description": "",
     "start": "2026-06-17T19:00:00",
@@ -39,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3481413830697979308",
+    "id": "eb_7307491227947703903",
     "title": "The Family Reunion Rooftop day party",
     "description": "",
     "start": "2026-06-19T15:00:00",
@@ -52,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6269892850286268918",
+    "id": "eb_8469327540232762963",
     "title": "Indepen'Dance: Civic Season Lounge",
     "description": "",
     "start": "2026-06-19T17:00:00",
@@ -65,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1037994106090636785",
+    "id": "eb_9205736651798089505",
     "title": "African American Music Appreciation Month - Performances",
     "description": "",
     "start": "2026-06-19T17:00:00",
@@ -78,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4814411194682995022",
+    "id": "eb_2348861165615911262",
     "title": "Freedom to Express: Juneteenth Poetry Slam | Anacostia | Host: Mal Prac",
     "description": "",
     "start": "2026-06-19T20:00:00",
@@ -91,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_818802675411542267",
+    "id": "eb_3245082171337718414",
     "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
     "description": "",
     "start": "2026-06-19T21:00:00",
@@ -104,7 +117,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_906310615944070605",
+    "id": "eb_6367237797241669178",
     "title": "Juneteenth Jamboree 2026",
     "description": "",
     "start": "2026-06-20T12:00:00",
@@ -115,6 +128,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.eventbrite.com/e/juneteenth-jamboree-2026-tickets-1988942728241",
     "event_type": "EVENT",
     "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1445157935455975526",
+    "title": "March with ALPFA DC Pride: 2026 Capital Pride Parade Celebration",
+    "description": "",
+    "start": "2026-06-20T15:00:00",
+    "end": null,
+    "location": "Meeting Point, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/march-with-alpfa-dc-pride-2026-capital-pride-parade-celebration-tickets-1990523616721",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 14, 2026 at 07:23 PM";
+const LAST_UPDATED = "June 15, 2026 at 04:02 AM";
