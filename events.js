@@ -1,2 +1,133 @@
-const EVENTS_DATA = [];
-const LAST_UPDATED = "June 15, 2026 at 08:53 PM";
+const EVENTS_DATA = [
+  {
+    "id": "eb_2010696663879356892",
+    "title": "LGBTQ+ Community Happy Hour @ Spark Social",
+    "description": "",
+    "start": "2026-06-17T18:00:00",
+    "end": null,
+    "location": "Spark Social, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1991327100964",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1531086568401005302",
+    "title": "Improv For Business Leaders: A Four-Week Workshop",
+    "description": "",
+    "start": "2026-06-17T18:30:00",
+    "end": null,
+    "location": "1445 New York Ave NW 5th floor, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/improv-for-business-leaders-a-four-week-workshop-tickets-1989863176326",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4159558759197246415",
+    "title": "New Age  Open Mic - Washington DC",
+    "description": "",
+    "start": "2026-06-17T19:00:00",
+    "end": null,
+    "location": "2714 Georgia Ave NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/new-age-open-mic-washington-dc-tickets-1980022579837",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5259012436114784996",
+    "title": "The Family Reunion Rooftop day party",
+    "description": "",
+    "start": "2026-06-19T15:00:00",
+    "end": null,
+    "location": "Zebbie's Garden, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/the-family-reunion-rooftop-day-party-tickets-1990688585146",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6920352571480463780",
+    "title": "Indepen'Dance: Civic Season Lounge",
+    "description": "",
+    "start": "2026-06-19T17:00:00",
+    "end": null,
+    "location": "Smithsonian National Museum of American History, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/independance-civic-season-lounge-tickets-1990792270271",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5513997650137717287",
+    "title": "African American Music Appreciation Month - Performances",
+    "description": "",
+    "start": "2026-06-19T17:00:00",
+    "end": null,
+    "location": "Eastern Market Metro Plaza Park, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/african-american-music-appreciation-month-performances-tickets-1395282821479",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3474546897777555373",
+    "title": "Freedom to Express: Juneteenth Poetry Slam | Anacostia | Host: Mal Prac",
+    "description": "",
+    "start": "2026-06-19T20:00:00",
+    "end": null,
+    "location": "Busboys and Poets, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/freedom-to-express-juneteenth-poetry-slam-anacostia-host-mal-prac-tickets-1991295391119",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3316073073314550638",
+    "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
+    "description": "",
+    "start": "2026-06-19T21:00:00",
+    "end": null,
+    "location": "Busboys and Poets, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/3rd-fridays-open-mic-night-brookland-host-mariah-barber-tickets-1054451535929",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8751550119831102249",
+    "title": "Juneteenth Jamboree 2026",
+    "description": "",
+    "start": "2026-06-20T12:00:00",
+    "end": null,
+    "location": "Thurgood Marshall Child Development Center, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/juneteenth-jamboree-2026-tickets-1988942728241",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3185108952591878168",
+    "title": "March with ALPFA DC Pride: 2026 Capital Pride Parade Celebration",
+    "description": "",
+    "start": "2026-06-20T15:00:00",
+    "end": null,
+    "location": "Meeting Point, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/march-with-alpfa-dc-pride-2026-capital-pride-parade-celebration-tickets-1990523616721",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  }
+];
+const LAST_UPDATED = "June 16, 2026 at 03:52 AM";
