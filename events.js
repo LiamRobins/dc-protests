@@ -1,2 +1,146 @@
-const EVENTS_DATA = [];
-const LAST_UPDATED = "June 18, 2026 at 08:22 PM";
+const EVENTS_DATA = [
+  {
+    "id": "eb_9024533196564898186",
+    "title": "Juneteenth Jamboree 2026",
+    "description": "",
+    "start": "2026-06-20T12:00:00",
+    "end": null,
+    "location": "Thurgood Marshall Child Development Center, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/juneteenth-jamboree-2026-tickets-1988942728241",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5934197678368678102",
+    "title": "March with ALPFA DC Pride: 2026 Capital Pride Parade Celebration",
+    "description": "",
+    "start": "2026-06-20T15:00:00",
+    "end": null,
+    "location": "Meeting Point, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/march-with-alpfa-dc-pride-2026-capital-pride-parade-celebration-tickets-1990523616721",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6556748897718172880",
+    "title": "The Family Reunion Rooftop day party",
+    "description": "",
+    "start": "2026-06-20T15:00:00",
+    "end": null,
+    "location": "Zebbie's Garden, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/the-family-reunion-rooftop-day-party-tickets-1990688585146",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5089330416362255165",
+    "title": "Indepen'Dance: Civic Season Lounge",
+    "description": "",
+    "start": "2026-06-20T17:00:00",
+    "end": null,
+    "location": "Smithsonian National Museum of American History, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/independance-civic-season-lounge-tickets-1990792270271",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8867977519431653737",
+    "title": "African American Music Appreciation Month - Performances",
+    "description": "",
+    "start": "2026-06-20T17:00:00",
+    "end": null,
+    "location": "Eastern Market Metro Plaza Park, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/african-american-music-appreciation-month-performances-tickets-1395282821479",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_114686598674789660",
+    "title": "Freedom to Express: Juneteenth Poetry Slam | Anacostia | Host: Mal Prac",
+    "description": "",
+    "start": "2026-06-20T20:00:00",
+    "end": null,
+    "location": "Busboys and Poets, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/freedom-to-express-juneteenth-poetry-slam-anacostia-host-mal-prac-tickets-1991295391119",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1633845444946876180",
+    "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
+    "description": "",
+    "start": "2026-06-20T21:00:00",
+    "end": null,
+    "location": "Busboys and Poets, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/3rd-fridays-open-mic-night-brookland-host-mariah-barber-tickets-1054451535929",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6494269169865192714",
+    "title": "Community Futures Week",
+    "description": "",
+    "start": "2026-06-22T10:00:00",
+    "end": null,
+    "location": "National Portrait Gallery, Smithsonian Institution, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-futures-week-tickets-1991484299148",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7020940672420923764",
+    "title": "GovCon Summer Soiree - NETWORKING EVENT - June 22",
+    "description": "",
+    "start": "2026-06-22T18:00:00",
+    "end": null,
+    "location": "The John F. Kennedy Center for the Performing Arts, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/govcon-summer-soiree-networking-event-june-22-tickets-1989112332532",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1279913507731844493",
+    "title": "June 24: DC EcoWomen Community Conversations",
+    "description": "",
+    "start": "2026-06-24T18:00:00",
+    "end": null,
+    "location": "Teaism Penn Quarter, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/june-24-dc-ecowomen-community-conversations-tickets-1991959465383",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_298251682052100793",
+    "title": "LGBTQ+ Community Happy Hour @ Spark Social",
+    "description": "",
+    "start": "2026-06-24T18:00:00",
+    "end": null,
+    "location": "Spark Social, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1991327465053",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  }
+];
+const LAST_UPDATED = "June 19, 2026 at 04:04 AM";
