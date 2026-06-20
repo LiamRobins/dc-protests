@@ -1,2 +1,107 @@
-const EVENTS_DATA = [];
-const LAST_UPDATED = "June 20, 2026 at 03:27 AM";
+const EVENTS_DATA = [
+  {
+    "id": "eb_3256889412558589382",
+    "title": "Juneteenth Jamboree 2026",
+    "description": "",
+    "start": "2026-06-20T12:00:00",
+    "end": null,
+    "location": "Thurgood Marshall Child Development Center, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/juneteenth-jamboree-2026-tickets-1988942728241",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3446614954069848900",
+    "title": "March with ALPFA DC Pride: 2026 Capital Pride Parade Celebration",
+    "description": "",
+    "start": "2026-06-20T15:00:00",
+    "end": null,
+    "location": "Meeting Point, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/march-with-alpfa-dc-pride-2026-capital-pride-parade-celebration-tickets-1990523616721",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4523858544613041660",
+    "title": "GovCon Summer Soiree - NETWORKING EVENT - June 22",
+    "description": "",
+    "start": "2026-06-22T18:00:00",
+    "end": null,
+    "location": "The John F. Kennedy Center for the Performing Arts, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/govcon-summer-soiree-networking-event-june-22-tickets-1989112332532",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_115087320827450748",
+    "title": "Raising Awareness Community Outreach",
+    "description": "",
+    "start": "2026-06-24T13:00:00",
+    "end": null,
+    "location": "3625 Martin Luther King Jr Ave SE unit 3, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/raising-awareness-community-outreach-tickets-1295773857489",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1273755002652294753",
+    "title": "June 24: DC EcoWomen Community Conversations",
+    "description": "",
+    "start": "2026-06-24T18:00:00",
+    "end": null,
+    "location": "Teaism Penn Quarter, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/june-24-dc-ecowomen-community-conversations-tickets-1991959465383",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7052261997592414936",
+    "title": "LGBTQ+ Community Happy Hour @ Spark Social",
+    "description": "",
+    "start": "2026-06-24T18:00:00",
+    "end": null,
+    "location": "Spark Social, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1991327465053",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6378059293697425842",
+    "title": "WE LIVE OUT LOUD :: Opening Reception",
+    "description": "",
+    "start": "2026-06-25T17:00:00",
+    "end": null,
+    "location": "1140 Connecticut Ave NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/we-live-out-loud-opening-reception-tickets-1990583171852",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3087508326533019009",
+    "title": "Creative Kickback",
+    "description": "",
+    "start": "2026-06-25T18:00:00",
+    "end": null,
+    "location": "Kbird DC, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/creative-kickback-tickets-1991310713950",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  }
+];
+const LAST_UPDATED = "June 20, 2026 at 08:51 AM";
