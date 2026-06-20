@@ -1,19 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_3256889412558589382",
-    "title": "Juneteenth Jamboree 2026",
-    "description": "",
-    "start": "2026-06-20T12:00:00",
-    "end": null,
-    "location": "Thurgood Marshall Child Development Center, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/juneteenth-jamboree-2026-tickets-1988942728241",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_3446614954069848900",
+    "id": "eb_6202334428432158986",
     "title": "March with ALPFA DC Pride: 2026 Capital Pride Parade Celebration",
     "description": "",
     "start": "2026-06-20T15:00:00",
@@ -26,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4523858544613041660",
+    "id": "eb_8508100375212753261",
     "title": "GovCon Summer Soiree - NETWORKING EVENT - June 22",
     "description": "",
     "start": "2026-06-22T18:00:00",
@@ -39,7 +26,20 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_115087320827450748",
+    "id": "eb_7277026617875339468",
+    "title": "Xpresso Unicorn's Juneteenth Celebration and Podcast",
+    "description": "",
+    "start": "2026-06-23T19:00:00",
+    "end": null,
+    "location": "HQ House by The Burns Brothers, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/xpresso-unicorns-juneteenth-celebration-and-podcast-tickets-1991011983439",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_9215948376401389275",
     "title": "Raising Awareness Community Outreach",
     "description": "",
     "start": "2026-06-24T13:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1273755002652294753",
+    "id": "eb_2267902370627529084",
     "title": "June 24: DC EcoWomen Community Conversations",
     "description": "",
     "start": "2026-06-24T18:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7052261997592414936",
+    "id": "eb_662404528562486404",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-06-24T18:00:00",
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6378059293697425842",
+    "id": "eb_7157591269412619611",
     "title": "WE LIVE OUT LOUD :: Opening Reception",
     "description": "",
     "start": "2026-06-25T17:00:00",
@@ -91,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3087508326533019009",
+    "id": "eb_5634944557693368775",
     "title": "Creative Kickback",
     "description": "",
     "start": "2026-06-25T18:00:00",
@@ -104,4 +104,4 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 20, 2026 at 08:51 AM";
+const LAST_UPDATED = "June 20, 2026 at 01:57 PM";
