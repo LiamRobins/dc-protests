@@ -1,6 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_7613986701384167601",
+    "id": "eb_8913830877565995042",
     "title": "Community Futures Week",
     "description": "",
     "start": "2026-06-22T10:00:00",
@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1371914632186763268",
+    "id": "eb_8479765438765245186",
     "title": "GovCon Summer Soiree - NETWORKING EVENT - June 22",
     "description": "",
     "start": "2026-06-22T18:00:00",
@@ -26,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3712687060111327708",
+    "id": "eb_6761059779021673016",
     "title": "Raising Awareness Community Outreach",
     "description": "",
     "start": "2026-06-24T13:00:00",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_9077004809378484289",
+    "id": "eb_7354938781217827870",
     "title": "June 24: DC EcoWomen Community Conversations",
     "description": "",
     "start": "2026-06-24T18:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3745679903829258666",
+    "id": "eb_2445950655344568110",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-06-24T18:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4783949662101289312",
+    "id": "eb_6024209292423429528",
     "title": "WE LIVE OUT LOUD :: Opening Reception",
     "description": "",
     "start": "2026-06-25T17:00:00",
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8762275194626141665",
+    "id": "eb_6664844303801356222",
     "title": "Creative Kickback",
     "description": "",
     "start": "2026-06-25T18:00:00",
@@ -91,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3701572331081017678",
+    "id": "eb_3552314739366137855",
     "title": "African American Music Appreciation Month - Performances",
     "description": "",
     "start": "2026-06-26T17:00:00",
@@ -104,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2479858706557761331",
+    "id": "eb_286991781425869917",
     "title": "Russiaâs Prison System: Structure, Political Prisoners, and Paths to Help",
     "description": "",
     "start": "2026-06-26T17:30:00",
@@ -117,7 +117,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2278513616337781578",
+    "id": "eb_8003634248320158840",
     "title": "4th Friday Open Mic | Brookland| Hosted by Casey Catherine Moore",
     "description": "",
     "start": "2026-06-26T21:00:00",
@@ -128,6 +128,58 @@ const EVENTS_DATA = [
     "event_url": "https://www.eventbrite.com/e/4th-friday-open-mic-brookland-hosted-by-casey-catherine-moore-tickets-1054455367389",
     "event_type": "EVENT",
     "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8213579853288916547",
+    "title": "Fitness at Franklin",
+    "description": "",
+    "start": "2026-06-27T08:30:00",
+    "end": null,
+    "location": "Franklin Park, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/fitness-at-franklin-tickets-1989999491047",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7680478537156446842",
+    "title": "Community Day: Service & Connection",
+    "description": "",
+    "start": "2026-06-27T10:00:00",
+    "end": null,
+    "location": "Temple Mother Earth, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-day-service-connection-registration-1125787734419",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2360135062567972245",
+    "title": "Walk 2 End Gun Violence + Community Event",
+    "description": "",
+    "start": "2026-06-27T11:00:00",
+    "end": null,
+    "location": "El Rey Navy Yard, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/walk-2-end-gun-violence-community-event-tickets-1990808179857",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_676620987114940556",
+    "title": "Free Community Art Supply Swap!",
+    "description": "",
+    "start": "2026-06-27T11:30:00",
+    "end": null,
+    "location": "WE MAKE DC - Dupont Circle, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/free-community-art-supply-swap-tickets-1990037737443",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 21, 2026 at 02:05 PM";
+const LAST_UPDATED = "June 21, 2026 at 07:26 PM";
