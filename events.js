@@ -1,6 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_6561561128748989185",
+    "id": "eb_4562947984359249860",
     "title": "Community Futures Week",
     "description": "",
     "start": "2026-06-22T10:00:00",
@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6977638707670335404",
+    "id": "eb_5948858373080111060",
     "title": "GovCon Summer Soiree - NETWORKING EVENT - June 22",
     "description": "",
     "start": "2026-06-22T18:00:00",
@@ -26,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2883917001421541226",
+    "id": "eb_8803032032240462383",
     "title": "Raising Awareness Community Outreach",
     "description": "",
     "start": "2026-06-24T13:00:00",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3367950225982493029",
+    "id": "eb_4876192712587367736",
     "title": "June 24: DC EcoWomen Community Conversations",
     "description": "",
     "start": "2026-06-24T18:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7243751090955566671",
+    "id": "eb_6951392354725642511",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-06-24T18:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_26296795510184913",
+    "id": "eb_7279788894909548832",
     "title": "WE LIVE OUT LOUD :: Opening Reception",
     "description": "",
     "start": "2026-06-25T17:00:00",
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2617728705695272448",
+    "id": "eb_5128995238704659672",
     "title": "Creative Kickback",
     "description": "",
     "start": "2026-06-25T18:00:00",
@@ -91,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_106525596507852083",
+    "id": "eb_4741356156601512489",
     "title": "African American Music Appreciation Month - Performances",
     "description": "",
     "start": "2026-06-26T17:00:00",
@@ -104,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_251353011999237359",
+    "id": "eb_5786918366160143061",
     "title": "Russiaâs Prison System: Structure, Political Prisoners, and Paths to Help",
     "description": "",
     "start": "2026-06-26T17:30:00",
@@ -115,6 +115,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.eventbrite.com/e/russias-prison-system-structure-political-prisoners-and-paths-to-help-tickets-1991104357733",
     "event_type": "EVENT",
     "source": "Eventbrite"
+  },
+  {
+    "id": "eb_9068153884217891548",
+    "title": "4th Friday Open Mic | Brookland| Hosted by Casey Catherine Moore",
+    "description": "",
+    "start": "2026-06-26T21:00:00",
+    "end": null,
+    "location": "Brookland, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/4th-friday-open-mic-brookland-hosted-by-casey-catherine-moore-tickets-1054455367389",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 21, 2026 at 03:57 AM";
+const LAST_UPDATED = "June 21, 2026 at 09:46 AM";
