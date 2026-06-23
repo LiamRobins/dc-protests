@@ -1,6 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_5966723208078317708",
+    "id": "eb_7156300629285713042",
     "title": "Raising Awareness Community Outreach",
     "description": "",
     "start": "2026-06-24T13:00:00",
@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6081995469568056576",
+    "id": "eb_2573634085832361498",
     "title": "June 24: DC EcoWomen Community Conversations",
     "description": "",
     "start": "2026-06-24T18:00:00",
@@ -26,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_116371861429434459",
+    "id": "eb_1524502553505956602",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-06-24T18:00:00",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2558272918993860842",
+    "id": "eb_2357935339362773056",
     "title": "WE LIVE OUT LOUD :: Opening Reception",
     "description": "",
     "start": "2026-06-25T17:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3567229280596928149",
+    "id": "eb_7212958865918443439",
     "title": "Creative Kickback",
     "description": "",
     "start": "2026-06-25T18:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2921794057506242335",
+    "id": "eb_8099403069963372103",
     "title": "African American Music Appreciation Month - Performances",
     "description": "",
     "start": "2026-06-26T17:00:00",
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_352150349253424524",
+    "id": "eb_5917593666552346453",
     "title": "Russiaâs Prison System: Structure, Political Prisoners, and Paths to Help",
     "description": "",
     "start": "2026-06-26T17:30:00",
@@ -91,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1654302370564651949",
+    "id": "eb_3887413960070545933",
     "title": "250th Anniversary Summer Gala: Dance to Live Band After Dance Lessons",
     "description": "",
     "start": "2026-06-26T19:00:00",
@@ -104,7 +104,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4171479135798804526",
+    "id": "eb_9022220816216770604",
     "title": "4th Friday Open Mic | Brookland| Hosted by Casey Catherine Moore",
     "description": "",
     "start": "2026-06-26T21:00:00",
@@ -117,20 +117,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4936061065482205634",
-    "title": "Fitness at Franklin",
-    "description": "",
-    "start": "2026-06-27T08:30:00",
-    "end": null,
-    "location": "Franklin Park, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/fitness-at-franklin-tickets-1989999491047",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_7519990065181080842",
+    "id": "eb_1141846588852304385",
     "title": "Community Day: Service & Connection",
     "description": "",
     "start": "2026-06-27T10:00:00",
@@ -143,7 +130,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5566036135534561155",
+    "id": "eb_5868101380049045448",
     "title": "Walk 2 End Gun Violence + Community Event",
     "description": "",
     "start": "2026-06-27T11:00:00",
@@ -156,7 +143,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4775124877893915796",
+    "id": "eb_2813189483529187978",
     "title": "Free Community Art Supply Swap!",
     "description": "",
     "start": "2026-06-27T11:30:00",
@@ -169,7 +156,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6618645361018802974",
+    "id": "eb_8780847908879117509",
     "title": "The Sanctuary Series: Summer Solstice Circle",
     "description": "",
     "start": "2026-06-27T15:00:00",
@@ -182,7 +169,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_135172657888076965",
+    "id": "eb_8152721907685915270",
     "title": "Hopin' Mic: Laugh-Fueled Hope for Trying Times",
     "description": "",
     "start": "2026-06-27T19:00:00",
@@ -195,7 +182,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5902066478815009913",
+    "id": "eb_599900248319694447",
     "title": "Punchlines and Players",
     "description": "",
     "start": "2026-06-27T19:30:00",
@@ -208,7 +195,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_438664518592333303",
+    "id": "eb_1371952707021048528",
     "title": "Run Joe Jackson At-Large Candidate Community Brunch Fundraiser",
     "description": "",
     "start": "2026-06-28T15:00:00",
@@ -221,4 +208,4 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 23, 2026 at 09:34 AM";
+const LAST_UPDATED = "June 23, 2026 at 02:43 PM";
