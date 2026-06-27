@@ -1,96 +1,5 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_8038432778535967645",
-    "title": "The Sanctuary Series: Summer Solstice Circle",
-    "description": "",
-    "start": "2026-06-27T15:00:00",
-    "end": null,
-    "location": "Up Dog Yoga Community, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/the-sanctuary-series-summer-solstice-circle-tickets-1992025767695",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_251776474549182684",
-    "title": "Ghana VS Croatia - 2026 FIFA World Cup Watch Party",
-    "description": "",
-    "start": "2026-06-27T16:00:00",
-    "end": null,
-    "location": "Lagos District Restaurant and Lounge, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/ghana-vs-croatia-2026-fifa-world-cup-watch-party-tickets-1992490687282",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_6310987161655632049",
-    "title": "Hopin' Mic: Laugh-Fueled Hope for Trying Times",
-    "description": "",
-    "start": "2026-06-27T19:00:00",
-    "end": null,
-    "location": "The Festival Center, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/hopin-mic-laugh-fueled-hope-for-trying-times-tickets-1991944973036",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_6056712487432687547",
-    "title": "Punchlines and Players",
-    "description": "",
-    "start": "2026-06-27T19:30:00",
-    "end": null,
-    "location": "City-State Public House, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/punchlines-and-players-tickets-1991236562160",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_7904394441849535586",
-    "title": "Run Joe Jackson At-Large Candidate Community Brunch Fundraiser",
-    "description": "",
-    "start": "2026-06-28T15:00:00",
-    "end": null,
-    "location": "Mission - Navy Yard, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/run-joe-jackson-at-large-candidate-community-brunch-fundraiser-registration-1988597705268",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_7654510860263506692",
-    "title": "Strategic Negotiation for NGOs: 1 Day Training in Washington, DC",
-    "description": "",
-    "start": "2026-06-30T09:00:00",
-    "end": null,
-    "location": "1500 K St NW, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.sg/e/strategic-negotiation-for-ngos-1-day-training-in-washington-dc-tickets-1991037516810",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_9175153564037061519",
-    "title": "Raising Awareness Community Outreach",
-    "description": "",
-    "start": "2026-07-01T13:00:00",
-    "end": null,
-    "location": "3625 Martin Luther King Jr Ave SE unit 3, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/raising-awareness-community-outreach-tickets-1295773857489",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
     "id": "mob_977993_6101525",
     "title": "America at 250: NO TO WHITEWASHING HISTORY",
     "description": "Speakout & Press Conference against the fascist whitewashing of history.\n\nOn this July 4, the 250th Anniversary of the Declaration of Independence, Trump/MAGA fascists are celebrating their vision of freedom—the freedom to dominate and erase others, hunt down nonwhite immigrants and throw them into concentration camps, disenfranchise and brutalize Black people, subjugate women and LGBTQ people, and commit crimes against humanity with impunity.\n\nThe Trump regime's war of aggression on Iran has brought the world to a perilous and uncertain moment. Even with his \"ceasefire,\" the dangers continue including the possibility of wider war, immense human suffering, and heightened global instability. Trump is leading humanity toward consequences whose full dimensions cannot yet be fully seen.\n\nTHIS IS A TIME WHEN THE DEMAND: “TRUMP MUST GO NOW!”\nNEEDS TO BE SEEN, HEARD AND FELT EVERYWHERE.\n\nTrump/MAGA fascism is not collapsing. Every setback they face compels them to escalate their attacks to lock in their fascist program, unbound by domestic or international law.\n\nThe danger we face is not only what this regime is doing. It is millions becoming conditioned to adapt to each new outrage, learning to live with what they once swore they would never accept.\n\nFascism is advancing. But the more Trump commits outrageous acts of state repression and blunders internationally, the more legitimacy the regime loses. Divisions at the top of society could further widen, holding the possibility for the sleeping giant of the people to awaken and rise. A situation could emerge, provoked by a step too far by the regime—including in its attempts to steal the midterms—where millions refuse to cooperate and pour into the streets. If that moment comes, will there be a force capable of demanding and settling for nothing less than the removal of the Trump Fascist Regime? Or will the moment slip away?\n\nThose directing people to place their hopes in the next election are not preparing them to stop fascism. They are preparing them to live with it. They are asking people to trust institutions that have failed to stop fascism’s advance and a Democratic Party that has repeatedly shown itself unwilling to wage the kind of struggle this moment demands.\n\nThis is why TRUMP MUST GO NOW needs to be seen everywhere now, influencing and inspiring people—planting a pole as a real demand and dividing line between living with or stopping a Trump fascist America. The time could come soon when a changed political situation could jolt millions of people to rise in sustained non-violent opposition to the regime. Such a rising, demanding nothing less than Trump Must Go\nNow, could sharpen splits at the top of the governing institutions and compel the removal of the Trump Fascist Regime.\nIn the Name of Humanity, We Refuse to Accept a Fascist America!\n\nJoin us in DC:\n\nJuly 1: America 250 - No to Whitewashing History! \nSpeakout 2pm at the National Museum of African American History & Culture \nJuly 2: Refuse Fascism Meeting 6:30pm at Riverside Baptist Church\n[699 Maine Ave SW]\nJuly 4: Rally and March 2pm at Logan Circle",
@@ -104,17 +13,17 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_7329906349445276966",
-    "title": "LGBTQ+ Community Happy Hour @ Spark Social",
-    "description": "",
-    "start": "2026-07-01T18:00:00",
-    "end": null,
-    "location": "Spark Social, Washington Â",
-    "organizer": "",
+    "id": "mob_978003_6101571",
+    "title": "AMERICA AT 250 RULED BY A FASCIST REGIME: TRUMP MUST GO NOW RALLY & MARCH",
+    "description": "AMERICA AT 250 RULED BY A FASCIST REGIME: TRUMP MUST GO NOW RALLY & MARCH \n\nOn this July 4, the 250th Anniversary of the Declaration of Independence, Trump/MAGA fascists are celebrating their vision of freedom—the freedom to dominate and erase others, hunt down nonwhite immigrants and throw them into concentration camps, disenfranchise and brutalize Black people, subjugate women and LGBTQ people, and commit crimes against humanity with impunity.\n\nThe Trump regime's war of aggression on Iran has brought the world to a perilous and uncertain moment. Even with his \"ceasefire,\" the dangers continue including the possibility of wider war, immense human suffering, and heightened global instability. Trump is leading humanity toward consequences whose full dimensions cannot yet be fully seen.\n\nTHIS IS A TIME WHEN THE DEMAND: “TRUMP MUST GO NOW!”\nNEEDS TO BE SEEN, HEARD AND FELT EVERYWHERE.\n\nTrump/MAGA fascism is not collapsing. Every setback they face compels them to escalate their attacks to lock in their fascist program, unbound by domestic or international law.\n\nThe danger we face is not only what this regime is doing. It is millions becoming conditioned to adapt to each new outrage, learning to live with what they once swore they would never accept.\n\nFascism is advancing. But the more Trump commits outrageous acts of state repression and blunders internationally, the more legitimacy the regime loses. Divisions at the top of society could further widen, holding the possibility for the sleeping giant of the people to awaken and rise. A situation could emerge, provoked by a step too far by the regime—including in its attempts to steal the midterms—where millions refuse to cooperate and pour into the streets. If that moment comes, will there be a force capable of demanding and settling for nothing less than the removal of the Trump Fascist Regime? Or will the moment slip away?\n\nThose directing people to place their hopes in the next election are not preparing them to stop fascism. They are preparing them to live with it. They are asking people to trust institutions that have failed to stop fascism’s advance and a Democratic Party that has repeatedly shown itself unwilling to wage the kind of struggle this moment demands.\n\nThis is why TRUMP MUST GO NOW needs to be seen everywhere now, influencing and inspiring people—planting a pole as a real demand and dividing line between living with or stopping a Trump fascist America. The time could come soon when a changed political situation could jolt millions of people to rise in sustained non-violent opposition to the regime. Such a rising, demanding nothing less than Trump Must Go\nNow, could sharpen splits at the top of the governing institutions and compel the removal of the Trump Fascist Regime.\nIn the Name of Humanity, We Refuse to Accept a Fascist America!\n\nJoin us in DC:\n\nJuly 1: America 250 - No to Whitewashing History! \nSpeakout 2pm at the National Museum of African American History & Culture \nJuly 2: Refuse Fascism Meeting 6:30pm at Riverside Baptist Church\n[699 Maine Ave SW]\nJuly 4: Rally and March 2pm at Logan Circle",
+    "start": "2026-07-04T18:00:00+00:00",
+    "end": "2026-07-04T21:00:00+00:00",
+    "location": "Logan Circle, Logan Circle Northwest & P Street Northwest, Washington, DC",
+    "organizer": "RefuseFascism.org",
     "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1991327863244",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
+    "event_url": "https://www.mobilize.us/refusefascismorg/event/978003/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "June 27, 2026 at 01:27 PM";
+const LAST_UPDATED = "June 27, 2026 at 07:17 PM";
