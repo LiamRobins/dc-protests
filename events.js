@@ -1,5 +1,31 @@
 const EVENTS_DATA = [
   {
+    "id": "eb_2392564498129900554",
+    "title": "Strategic Negotiation for NGOs: 1 Day Training in Washington, DC",
+    "description": "",
+    "start": "2026-06-30T09:00:00",
+    "end": null,
+    "location": "1500 K St NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.sg/e/strategic-negotiation-for-ngos-1-day-training-in-washington-dc-tickets-1991037516810",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_197661448760064799",
+    "title": "Raising Awareness Community Outreach",
+    "description": "",
+    "start": "2026-07-01T13:00:00",
+    "end": null,
+    "location": "3625 Martin Luther King Jr Ave SE unit 3, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/raising-awareness-community-outreach-tickets-1295773857489",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
     "id": "mob_977993_6101525",
     "title": "America at 250: NO TO WHITEWASHING HISTORY",
     "description": "Speakout & Press Conference against the fascist whitewashing of history.\n\nOn this July 4, the 250th Anniversary of the Declaration of Independence, Trump/MAGA fascists are celebrating their vision of freedom—the freedom to dominate and erase others, hunt down nonwhite immigrants and throw them into concentration camps, disenfranchise and brutalize Black people, subjugate women and LGBTQ people, and commit crimes against humanity with impunity.\n\nThe Trump regime's war of aggression on Iran has brought the world to a perilous and uncertain moment. Even with his \"ceasefire,\" the dangers continue including the possibility of wider war, immense human suffering, and heightened global instability. Trump is leading humanity toward consequences whose full dimensions cannot yet be fully seen.\n\nTHIS IS A TIME WHEN THE DEMAND: “TRUMP MUST GO NOW!”\nNEEDS TO BE SEEN, HEARD AND FELT EVERYWHERE.\n\nTrump/MAGA fascism is not collapsing. Every setback they face compels them to escalate their attacks to lock in their fascist program, unbound by domestic or international law.\n\nThe danger we face is not only what this regime is doing. It is millions becoming conditioned to adapt to each new outrage, learning to live with what they once swore they would never accept.\n\nFascism is advancing. But the more Trump commits outrageous acts of state repression and blunders internationally, the more legitimacy the regime loses. Divisions at the top of society could further widen, holding the possibility for the sleeping giant of the people to awaken and rise. A situation could emerge, provoked by a step too far by the regime—including in its attempts to steal the midterms—where millions refuse to cooperate and pour into the streets. If that moment comes, will there be a force capable of demanding and settling for nothing less than the removal of the Trump Fascist Regime? Or will the moment slip away?\n\nThose directing people to place their hopes in the next election are not preparing them to stop fascism. They are preparing them to live with it. They are asking people to trust institutions that have failed to stop fascism’s advance and a Democratic Party that has repeatedly shown itself unwilling to wage the kind of struggle this moment demands.\n\nThis is why TRUMP MUST GO NOW needs to be seen everywhere now, influencing and inspiring people—planting a pole as a real demand and dividing line between living with or stopping a Trump fascist America. The time could come soon when a changed political situation could jolt millions of people to rise in sustained non-violent opposition to the regime. Such a rising, demanding nothing less than Trump Must Go\nNow, could sharpen splits at the top of the governing institutions and compel the removal of the Trump Fascist Regime.\nIn the Name of Humanity, We Refuse to Accept a Fascist America!\n\nJoin us in DC:\n\nJuly 1: America 250 - No to Whitewashing History! \nSpeakout 2pm at the National Museum of African American History & Culture \nJuly 2: Refuse Fascism Meeting 6:30pm at Riverside Baptist Church\n[699 Maine Ave SW]\nJuly 4: Rally and March 2pm at Logan Circle",
@@ -11,6 +37,71 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/refusefascismorg/event/977993/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_6558617628315868417",
+    "title": "LGBTQ+ Community Happy Hour @ Spark Social",
+    "description": "",
+    "start": "2026-07-01T18:00:00",
+    "end": null,
+    "location": "Spark Social, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1991327863244",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3838466892888365265",
+    "title": "Compliance Strategy for Executives 1 Day Training â Washington, D.C.",
+    "description": "",
+    "start": "2026-07-02T09:00:00",
+    "end": null,
+    "location": "For venue information, Please contact us: info@skelora.com, Washington, D.C Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/compliance-strategy-for-executives-1-day-training-washington-dc-tickets-1990074925674",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7871463967060627441",
+    "title": "America250: Justice Up Close, History All Around",
+    "description": "",
+    "start": "2026-07-03T13:45:00",
+    "end": null,
+    "location": "717 Madison Pl NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/america250-justice-up-close-history-all-around-tickets-1988826348145",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8017631817574133788",
+    "title": "The Missing Files: DC Protest",
+    "description": "",
+    "start": "2026-07-04T10:00:00",
+    "end": null,
+    "location": "Washington, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/the-missing-files-dc-protest-tickets-1989323189210",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2855255742787253209",
+    "title": "Independence Day VIP Parade Experience",
+    "description": "",
+    "start": "2026-07-04T10:30:00",
+    "end": null,
+    "location": "JW Marriott Washington DC, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/independence-day-vip-parade-experience-tickets-1990020378522",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   },
   {
     "id": "mob_978003_6101571",
@@ -26,4 +117,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "June 28, 2026 at 01:41 PM";
+const LAST_UPDATED = "June 28, 2026 at 07:15 PM";
