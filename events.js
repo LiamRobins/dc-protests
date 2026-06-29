@@ -1,6 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_8039135241180539566",
+    "id": "eb_8719440591560844741",
     "title": "Strategic Negotiation for NGOs: 1 Day Training in Washington, DC",
     "description": "",
     "start": "2026-06-30T09:00:00",
@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8431203858552561490",
+    "id": "eb_5098174238451867255",
     "title": "Raising Awareness Community Outreach",
     "description": "",
     "start": "2026-07-01T13:00:00",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_7509762568536152318",
+    "id": "eb_9138060839326855799",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-07-01T18:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1027304262547549137",
+    "id": "eb_6889238510647006644",
     "title": "Compliance Strategy for Executives 1 Day Training â Washington, D.C.",
     "description": "",
     "start": "2026-07-02T09:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_5902417242191755169",
+    "id": "eb_893151200973492188",
     "title": "Solemates at Metrobar",
     "description": "",
     "start": "2026-07-02T19:00:00",
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6839164123843373250",
+    "id": "eb_4673417925767671070",
     "title": "America250: Justice Up Close, History All Around",
     "description": "",
     "start": "2026-07-03T09:00:00",
@@ -91,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4305751438287462534",
+    "id": "eb_437255458796527285",
     "title": "The Missing Files: DC Protest",
     "description": "",
     "start": "2026-07-04T10:00:00",
@@ -104,7 +104,20 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3777774415851359091",
+    "id": "eb_1733699533003823537",
+    "title": "Independence Day VIP Parade Experience",
+    "description": "",
+    "start": "2026-07-04T10:30:00",
+    "end": null,
+    "location": "JW Marriott Washington DC, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/independence-day-vip-parade-experience-tickets-1990020378522",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4377639822258729140",
     "title": "Drink For America (4th  of July) Bar Crawl [U STREET]",
     "description": "",
     "start": "2026-07-04T14:00:00",
@@ -117,7 +130,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4062083680557661824",
+    "id": "eb_3022913356581926371",
     "title": "Drink For America Bar Crawl [ON JULY 4TH - 250TH EDITION]",
     "description": "",
     "start": "2026-07-04T14:00:00",
@@ -130,7 +143,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4020395837239205689",
+    "id": "eb_3602291224414785792",
     "title": "4th of July at The Crimson Rooftop: 250 Years",
     "description": "",
     "start": "2026-07-04T17:00:00",
@@ -143,7 +156,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4522564516717636853",
+    "id": "eb_900245464548657618",
     "title": "America's 250 All You Can Eat Rooftop Cookout",
     "description": "",
     "start": "2026-07-04T17:00:00",
@@ -152,6 +165,19 @@ const EVENTS_DATA = [
     "organizer": "",
     "organizer_website": "",
     "event_url": "https://www.eventbrite.com/e/americas-250-all-you-can-eat-rooftop-cookout-tickets-1992155115578",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2506623531734021688",
+    "title": "VUE Rooftop | 250th Celebration: July 4th, 2026",
+    "description": "",
+    "start": "2026-07-04T18:00:00",
+    "end": null,
+    "location": "Vue Rooftop, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/vue-rooftop-250th-celebration-july-4th-2026-tickets-1458446927019",
     "event_type": "EVENT",
     "source": "Eventbrite"
   },
@@ -169,7 +195,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_1457551941264205093",
+    "id": "eb_6192486246127916065",
     "title": "July 4th Fireworks at the Embassy Row Rooftop: Open Bar, Dinner, Live Music",
     "description": "",
     "start": "2026-07-04T19:00:00",
@@ -182,7 +208,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2209327068621632498",
+    "id": "eb_6139611576590598884",
     "title": "4th of July Firework SHOWDOWN Cookout",
     "description": "",
     "start": "2026-07-04T20:00:00",
@@ -195,7 +221,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_697491201500071201",
+    "id": "eb_7993268325422286017",
     "title": "4th of July Washington, DC Bar Crawl 2026 | Saturday, July 4th",
     "description": "",
     "start": "2026-07-04T20:30:00",
@@ -208,4 +234,4 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 29, 2026 at 03:39 AM";
+const LAST_UPDATED = "June 29, 2026 at 10:52 AM";
