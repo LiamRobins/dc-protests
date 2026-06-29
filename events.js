@@ -1,6 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_2392564498129900554",
+    "id": "eb_8039135241180539566",
     "title": "Strategic Negotiation for NGOs: 1 Day Training in Washington, DC",
     "description": "",
     "start": "2026-06-30T09:00:00",
@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_197661448760064799",
+    "id": "eb_8431203858552561490",
     "title": "Raising Awareness Community Outreach",
     "description": "",
     "start": "2026-07-01T13:00:00",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_6558617628315868417",
+    "id": "eb_7509762568536152318",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-07-01T18:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3838466892888365265",
+    "id": "eb_1027304262547549137",
     "title": "Compliance Strategy for Executives 1 Day Training â Washington, D.C.",
     "description": "",
     "start": "2026-07-02T09:00:00",
@@ -65,10 +65,23 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7871463967060627441",
+    "id": "eb_5902417242191755169",
+    "title": "Solemates at Metrobar",
+    "description": "",
+    "start": "2026-07-02T19:00:00",
+    "end": null,
+    "location": "metrobar, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/solemates-at-metrobar-tickets-1992049370291",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6839164123843373250",
     "title": "America250: Justice Up Close, History All Around",
     "description": "",
-    "start": "2026-07-03T13:45:00",
+    "start": "2026-07-03T09:00:00",
     "end": null,
     "location": "717 Madison Pl NW, Washington Â",
     "organizer": "",
@@ -78,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8017631817574133788",
+    "id": "eb_4305751438287462534",
     "title": "The Missing Files: DC Protest",
     "description": "",
     "start": "2026-07-04T10:00:00",
@@ -91,15 +104,54 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2855255742787253209",
-    "title": "Independence Day VIP Parade Experience",
+    "id": "eb_3777774415851359091",
+    "title": "Drink For America (4th  of July) Bar Crawl [U STREET]",
     "description": "",
-    "start": "2026-07-04T10:30:00",
+    "start": "2026-07-04T14:00:00",
     "end": null,
-    "location": "JW Marriott Washington DC, Washington Â",
+    "location": "U Street Top Bars, Washington Â",
     "organizer": "",
     "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/independence-day-vip-parade-experience-tickets-1990020378522",
+    "event_url": "https://www.eventbrite.com/e/drink-for-america-4th-of-july-bar-crawl-u-street-tickets-936990723477",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4062083680557661824",
+    "title": "Drink For America Bar Crawl [ON JULY 4TH - 250TH EDITION]",
+    "description": "",
+    "start": "2026-07-04T14:00:00",
+    "end": null,
+    "location": "Dupont Circle, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/drink-for-america-bar-crawl-on-july-4th-250th-edition-tickets-1988941697157",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4020395837239205689",
+    "title": "4th of July at The Crimson Rooftop: 250 Years",
+    "description": "",
+    "start": "2026-07-04T17:00:00",
+    "end": null,
+    "location": "Crimson Whiskey Bar, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/4th-of-july-at-the-crimson-rooftop-250-years-tickets-1990998648554",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4522564516717636853",
+    "title": "America's 250 All You Can Eat Rooftop Cookout",
+    "description": "",
+    "start": "2026-07-04T17:00:00",
+    "end": null,
+    "location": "Top of the Yard Rooftop Bar & Bites, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/americas-250-all-you-can-eat-rooftop-cookout-tickets-1992155115578",
     "event_type": "EVENT",
     "source": "Eventbrite"
   },
@@ -115,6 +167,45 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/refusefascismorg/event/978003/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_1457551941264205093",
+    "title": "July 4th Fireworks at the Embassy Row Rooftop: Open Bar, Dinner, Live Music",
+    "description": "",
+    "start": "2026-07-04T19:00:00",
+    "end": null,
+    "location": "The Ven at Embassy Row, Washington, D.C., a Tribute Portfolio Hotel, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/july-4th-fireworks-at-the-embassy-row-rooftop-open-bar-dinner-live-music-tickets-1990843006023",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2209327068621632498",
+    "title": "4th of July Firework SHOWDOWN Cookout",
+    "description": "",
+    "start": "2026-07-04T20:00:00",
+    "end": null,
+    "location": "Taylor Street Northwest, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/4th-of-july-firework-showdown-cookout-tickets-1990331778929",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_697491201500071201",
+    "title": "4th of July Washington, DC Bar Crawl 2026 | Saturday, July 4th",
+    "description": "",
+    "start": "2026-07-04T20:30:00",
+    "end": null,
+    "location": "TBA, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.ca/e/4th-of-july-washington-dc-bar-crawl-2026-saturday-july-4th-tickets-1986412268568",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "June 28, 2026 at 07:15 PM";
+const LAST_UPDATED = "June 29, 2026 at 03:39 AM";
