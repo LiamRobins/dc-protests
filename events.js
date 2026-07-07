@@ -1,19 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_1130043062938293487",
-    "title": "ReGen Youth Summit",
-    "description": "",
-    "start": "2026-07-07T10:00:00",
-    "end": null,
-    "location": "American University, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/regen-youth-summit-tickets-1990728119394",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_1196611453154470163",
+    "id": "eb_306894591585418249",
     "title": "Raising Awareness Community Outreach",
     "description": "",
     "start": "2026-07-08T13:00:00",
@@ -26,7 +13,20 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_852773778762774847",
+    "id": "eb_8049032341189349775",
+    "title": "LGBTQ+ Community Happy Hour @ Spark Social",
+    "description": "",
+    "start": "2026-07-08T18:00:00",
+    "end": null,
+    "location": "Spark Social, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1992834945969",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2896444660249350078",
     "title": "Daysha's Dancehall Fundraiser",
     "description": "",
     "start": "2026-07-09T21:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_7862975631937767565",
+    "id": "eb_2043277808139891174",
     "title": "Community Day: Service & Connection",
     "description": "",
     "start": "2026-07-11T10:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8940423355196848463",
+    "id": "eb_7750488084773730614",
     "title": "StudioZo Pool Pilates & Summer Rooftop Party",
     "description": "",
     "start": "2026-07-11T11:00:00",
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2497120010781544327",
+    "id": "eb_7375420403197172559",
     "title": "CommUNITY FUN DAY \"The Friendly Feuds\"",
     "description": "",
     "start": "2026-07-11T14:00:00",
@@ -91,4 +91,4 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "July 07, 2026 at 02:51 AM";
+const LAST_UPDATED = "July 07, 2026 at 09:36 AM";
