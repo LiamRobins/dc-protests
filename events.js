@@ -1,6 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_306894591585418249",
+    "id": "eb_8940508954099848247",
     "title": "Raising Awareness Community Outreach",
     "description": "",
     "start": "2026-07-08T13:00:00",
@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8049032341189349775",
+    "id": "eb_5099476828582782663",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-07-08T18:00:00",
@@ -26,7 +26,20 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2896444660249350078",
+    "id": "eb_7251133238061551165",
+    "title": "Begin with a Dreamer: Opening Reception of Group Art Exhibition",
+    "description": "",
+    "start": "2026-07-09T18:00:00",
+    "end": null,
+    "location": "THEARC: Town Hall Education Arts Recreation Campus, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/begin-with-a-dreamer-opening-reception-of-group-art-exhibition-tickets-1991844828501",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8456013384561266648",
     "title": "Daysha's Dancehall Fundraiser",
     "description": "",
     "start": "2026-07-09T21:00:00",
@@ -52,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_2043277808139891174",
+    "id": "eb_4242096392006163086",
     "title": "Community Day: Service & Connection",
     "description": "",
     "start": "2026-07-11T10:00:00",
@@ -65,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7750488084773730614",
+    "id": "eb_5744915756443417439",
     "title": "StudioZo Pool Pilates & Summer Rooftop Party",
     "description": "",
     "start": "2026-07-11T11:00:00",
@@ -78,7 +91,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_7375420403197172559",
+    "id": "eb_6562979090084863600",
     "title": "CommUNITY FUN DAY \"The Friendly Feuds\"",
     "description": "",
     "start": "2026-07-11T14:00:00",
@@ -89,6 +102,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.eventbrite.com/e/community-fun-day-the-friendly-feuds-tickets-1992263948099",
     "event_type": "EVENT",
     "source": "Eventbrite"
+  },
+  {
+    "id": "eb_513445552773399511",
+    "title": "The Gaines Method | Slow Flow Yoga | House of Ruth | Charity Class",
+    "description": "",
+    "start": "2026-07-12T10:30:00",
+    "end": null,
+    "location": "3001 Sherman Ave NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/the-gaines-method-slow-flow-yoga-house-of-ruth-charity-class-tickets-1991938417428",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "July 07, 2026 at 09:36 AM";
+const LAST_UPDATED = "July 07, 2026 at 02:27 PM";
