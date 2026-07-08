@@ -1,7 +1,7 @@
 const EVENTS_DATA = [
   {
     "id": "mob_985930_6139230",
-    "title": "Free Davey: Rally at a Former Olympian's Arraignment",
+    "title": "Free Davey: Rally at a Celebrated Olympian's Arraignment",
     "description": "He represented US, Now stand for him.\n\nWear Red, White and Blue!\n\nDavey Hearn, a celebrated Olympian, was falsely accused of vandalizing the DC reflecting pool, a charge that has shaken both him and those who know his character and dedication.\n\n He is scheduled for an arraignment hearing on July 9 at 9:30 a.m. at the D.C. Superior Court. 500 Indiana Avenue NW, Washington, D.C. 20001.\n\nJoin us at 8:30 a.m to rally outside the Court and to attend the arraignment.\n\nAnd contribute to his defense here: https://www.gofundme.com/f/justice-for-olympian-davey-hearn",
     "start": "2026-07-09T12:30:00+00:00",
     "end": "2026-07-09T14:00:00+00:00",
@@ -11,6 +11,32 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/publiccitizen/event/985930/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_3825697411993014269",
+    "title": "Begin with a Dreamer: Opening Reception of Group Art Exhibition",
+    "description": "",
+    "start": "2026-07-09T18:00:00",
+    "end": null,
+    "location": "THEARC: Town Hall Education Arts Recreation Campus, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/begin-with-a-dreamer-opening-reception-of-group-art-exhibition-tickets-1991844828501",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8387379642715145900",
+    "title": "Daysha's Dancehall Fundraiser",
+    "description": "",
+    "start": "2026-07-09T21:00:00",
+    "end": null,
+    "location": "Sinners and Saints, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/dayshas-dancehall-fundraiser-tickets-1992675030658",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   },
   {
     "id": "mob_942279_5949879",
@@ -24,6 +50,32 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/cpda/event/942279/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_1810448769617186086",
+    "title": "Fitness at Franklin",
+    "description": "",
+    "start": "2026-07-11T09:00:00",
+    "end": null,
+    "location": "Franklin Park, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/fitness-at-franklin-tickets-1989999461960",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7287673657163988042",
+    "title": "StudioZo Pool Pilates & Summer Rooftop Party",
+    "description": "",
+    "start": "2026-07-11T11:00:00",
+    "end": null,
+    "location": "The Ven at Embassy Row, Washington, D.C., a Tribute Portfolio Hotel, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/studiozo-pool-pilates-summer-rooftop-party-tickets-1991958333999",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "July 08, 2026 at 08:23 AM";
+const LAST_UPDATED = "July 08, 2026 at 01:58 PM";
