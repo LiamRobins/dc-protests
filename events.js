@@ -2,7 +2,7 @@ const EVENTS_DATA = [
   {
     "id": "mob_985930_6139230",
     "title": "Free Davey: Rally at a Former Olympian's Arraignment",
-    "description": "He represented the US, Now stand for him.\n\nWear Red, White and Blue!\n\nDavey Hearn, a celebrated Olympian, was falsely accused of vandalizing the DC reflecting pool, a charge that has shaken both him and those who know his character and dedication.\n\n He is scheduled for an arraignment hearing on July 9 at 9:30 a.m. at the D.C. Superior Court. 500 Indiana Avenue NW, Washington, D.C. 20001.\n\nJoin us at 8:30 a.m to rally outside the Court and to attend the arraignment.\n\nAnd contribute to his defense here: https://www.gofundme.com/f/justice-for-olympian-davey-hearn",
+    "description": "He represented US, Now stand for him.\n\nWear Red, White and Blue!\n\nDavey Hearn, a celebrated Olympian, was falsely accused of vandalizing the DC reflecting pool, a charge that has shaken both him and those who know his character and dedication.\n\n He is scheduled for an arraignment hearing on July 9 at 9:30 a.m. at the D.C. Superior Court. 500 Indiana Avenue NW, Washington, D.C. 20001.\n\nJoin us at 8:30 a.m to rally outside the Court and to attend the arraignment.\n\nAnd contribute to his defense here: https://www.gofundme.com/f/justice-for-olympian-davey-hearn",
     "start": "2026-07-09T12:30:00+00:00",
     "end": "2026-07-09T14:00:00+00:00",
     "location": "Superior Court of the District of Columbia, 500 Indiana Ave NW, Washington, DC",
@@ -26,4 +26,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "July 08, 2026 at 02:28 AM";
+const LAST_UPDATED = "July 08, 2026 at 08:23 AM";
