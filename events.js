@@ -1,29 +1,16 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_1959930750060307612",
-    "title": "Raising Awareness Community Outreach",
-    "description": "",
-    "start": "2026-07-08T13:00:00",
-    "end": null,
-    "location": "3625 Martin Luther King Jr Ave SE unit 3, Washington Â",
-    "organizer": "",
+    "id": "mob_985930_6139230",
+    "title": "Free Davey: Rally at a Former Olympian's Arraignment",
+    "description": "He represented the US, Now stand for him.\n\nWear Red, White and Blue!\n\nDavey Hearn, a celebrated Olympian, was falsely accused of vandalizing the DC reflecting pool, a charge that has shaken both him and those who know his character and dedication.\n\n He is scheduled for an arraignment hearing on July 9 at 9:30 a.m. at the D.C. Superior Court. 500 Indiana Avenue NW, Washington, D.C. 20001.\n\nJoin us at 8:30 a.m to rally outside the Court and to attend the arraignment.\n\nAnd contribute to his defense here: https://www.gofundme.com/f/justice-for-olympian-davey-hearn",
+    "start": "2026-07-09T12:30:00+00:00",
+    "end": "2026-07-09T14:00:00+00:00",
+    "location": "Superior Court of the District of Columbia, 500 Indiana Ave NW, Washington, DC",
+    "organizer": "Public Citizen",
     "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/raising-awareness-community-outreach-tickets-1295773857489",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_1731036160747279887",
-    "title": "Daysha's Dancehall Fundraiser",
-    "description": "",
-    "start": "2026-07-09T21:00:00",
-    "end": null,
-    "location": "Sinners and Saints, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/dayshas-dancehall-fundraiser-tickets-1992675030658",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
+    "event_url": "https://www.mobilize.us/publiccitizen/event/985930/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
   },
   {
     "id": "mob_942279_5949879",
@@ -37,58 +24,6 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/cpda/event/942279/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
-  },
-  {
-    "id": "eb_6722308039110190924",
-    "title": "Fitness at Franklin",
-    "description": "",
-    "start": "2026-07-11T09:00:00",
-    "end": null,
-    "location": "Franklin Park, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/fitness-at-franklin-tickets-1989999461960",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_4207135910081876461",
-    "title": "Community Day: Service & Connection",
-    "description": "",
-    "start": "2026-07-11T10:00:00",
-    "end": null,
-    "location": "Temple Mother Earth, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/community-day-service-connection-registration-1125787734419",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_1134522643032245444",
-    "title": "StudioZo Pool Pilates & Summer Rooftop Party",
-    "description": "",
-    "start": "2026-07-11T11:00:00",
-    "end": null,
-    "location": "The Ven at Embassy Row, Washington, D.C., a Tribute Portfolio Hotel, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/studiozo-pool-pilates-summer-rooftop-party-tickets-1991958333999",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_6118530636371055114",
-    "title": "CommUNITY FUN DAY \"The Friendly Feuds\"",
-    "description": "",
-    "start": "2026-07-11T14:00:00",
-    "end": null,
-    "location": "Southwest Library, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/community-fun-day-the-friendly-feuds-tickets-1992263948099",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "July 07, 2026 at 07:51 PM";
+const LAST_UPDATED = "July 08, 2026 at 02:28 AM";
