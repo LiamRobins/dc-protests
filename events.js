@@ -1,16 +1,29 @@
 const EVENTS_DATA = [
   {
-    "id": "mob_985930_6139230",
-    "title": "Free Davey! Rally at a Celebrated Olympian's Arraignment",
-    "description": "He represented US, Now we stand for him.\n\nWear Red, White and Blue!\n\nDavey Hearn, a celebrated Olympian, was falsely accused of vandalizing the DC reflecting pool, a charge that has shaken both him and those who know his character and dedication.\n\n He is scheduled for an arraignment hearing on July 9 at 9:30 a.m. at the D.C. Superior Court. 500 Indiana Avenue NW, Washington, D.C. 20001.\n\nJoin us at 8:30 a.m to rally outside the Court and to attend the arraignment.\n\nAnd contribute to his defense here: https://www.gofundme.com/f/justice-for-olympian-davey-hearn",
-    "start": "2026-07-09T12:30:00+00:00",
-    "end": "2026-07-09T14:00:00+00:00",
-    "location": "Superior Court of the District of Columbia, 500 Indiana Ave NW, Washington, DC",
-    "organizer": "Public Citizen",
+    "id": "eb_8448882744319650964",
+    "title": "Begin with a Dreamer: Opening Reception of Group Art Exhibition",
+    "description": "",
+    "start": "2026-07-09T18:00:00",
+    "end": null,
+    "location": "THEARC: Town Hall Education Arts Recreation Campus, Washington Â",
+    "organizer": "",
     "organizer_website": "",
-    "event_url": "https://www.mobilize.us/publiccitizen/event/985930/",
-    "event_type": "RALLY",
-    "source": "Mobilize.us"
+    "event_url": "https://www.eventbrite.com/e/begin-with-a-dreamer-opening-reception-of-group-art-exhibition-tickets-1991844828501",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2312863449155964837",
+    "title": "Daysha's Dancehall Fundraiser",
+    "description": "",
+    "start": "2026-07-09T21:00:00",
+    "end": null,
+    "location": "Sinners and Saints, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/dayshas-dancehall-fundraiser-tickets-1992675030658",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   },
   {
     "id": "mob_942279_5949879",
@@ -24,6 +37,71 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/cpda/event/942279/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "eb_8949078851444315886",
+    "title": "Fitness at Franklin",
+    "description": "",
+    "start": "2026-07-11T09:00:00",
+    "end": null,
+    "location": "Franklin Park, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/fitness-at-franklin-tickets-1989999461960",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8935726522523576935",
+    "title": "Community Day: Service & Connection",
+    "description": "",
+    "start": "2026-07-11T10:00:00",
+    "end": null,
+    "location": "Temple Mother Earth, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-day-service-connection-registration-1125787734419",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6676237820779203871",
+    "title": "StudioZo Pool Pilates & Summer Rooftop Party",
+    "description": "",
+    "start": "2026-07-11T11:00:00",
+    "end": null,
+    "location": "The Ven at Embassy Row, Washington, D.C., a Tribute Portfolio Hotel, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/studiozo-pool-pilates-summer-rooftop-party-tickets-1991958333999",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2485768824166797952",
+    "title": "CommUNITY FUN DAY \"The Friendly Feuds\"",
+    "description": "",
+    "start": "2026-07-11T14:00:00",
+    "end": null,
+    "location": "Southwest Library, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/community-fun-day-the-friendly-feuds-tickets-1992263948099",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3092137860281737411",
+    "title": "Women in Politics Mixer: Celebrating 250 Years Our Way",
+    "description": "",
+    "start": "2026-07-14T18:00:00",
+    "end": null,
+    "location": "Bluestone Lane West End CafÃ©, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/women-in-politics-mixer-celebrating-250-years-our-way-tickets-1992927972213",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "July 09, 2026 at 09:34 AM";
+const LAST_UPDATED = "July 09, 2026 at 02:53 PM";
