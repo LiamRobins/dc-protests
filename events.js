@@ -1,19 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_8448882744319650964",
-    "title": "Begin with a Dreamer: Opening Reception of Group Art Exhibition",
-    "description": "",
-    "start": "2026-07-09T18:00:00",
-    "end": null,
-    "location": "THEARC: Town Hall Education Arts Recreation Campus, Washington Â",
-    "organizer": "",
-    "organizer_website": "",
-    "event_url": "https://www.eventbrite.com/e/begin-with-a-dreamer-opening-reception-of-group-art-exhibition-tickets-1991844828501",
-    "event_type": "EVENT",
-    "source": "Eventbrite"
-  },
-  {
-    "id": "eb_2312863449155964837",
+    "id": "eb_1803559895351087993",
     "title": "Daysha's Dancehall Fundraiser",
     "description": "",
     "start": "2026-07-09T21:00:00",
@@ -39,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "eb_8949078851444315886",
+    "id": "eb_512344457541796147",
     "title": "Fitness at Franklin",
     "description": "",
     "start": "2026-07-11T09:00:00",
@@ -52,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8935726522523576935",
+    "id": "eb_961067456250846353",
     "title": "Community Day: Service & Connection",
     "description": "",
     "start": "2026-07-11T10:00:00",
@@ -65,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_6676237820779203871",
+    "id": "eb_2683917234792674599",
     "title": "StudioZo Pool Pilates & Summer Rooftop Party",
     "description": "",
     "start": "2026-07-11T11:00:00",
@@ -78,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_2485768824166797952",
+    "id": "eb_8308662798798365878",
     "title": "CommUNITY FUN DAY \"The Friendly Feuds\"",
     "description": "",
     "start": "2026-07-11T14:00:00",
@@ -91,7 +78,20 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_3092137860281737411",
+    "id": "eb_1031048445474846978",
+    "title": "The WINEDOWN",
+    "description": "",
+    "start": "2026-07-12T15:00:00",
+    "end": null,
+    "location": "512 Rhode Island Ave NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/the-winedown-tickets-1993211362842",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6954456726401374351",
     "title": "Women in Politics Mixer: Celebrating 250 Years Our Way",
     "description": "",
     "start": "2026-07-14T18:00:00",
@@ -102,6 +102,19 @@ const EVENTS_DATA = [
     "event_url": "https://www.eventbrite.com/e/women-in-politics-mixer-celebrating-250-years-our-way-tickets-1992927972213",
     "event_type": "EVENT",
     "source": "Eventbrite"
+  },
+  {
+    "id": "eb_2581707104399769936",
+    "title": "Strategic Negotiation for NGOs: 1 Day Training in Washington, DC",
+    "description": "",
+    "start": "2026-07-15T09:00:00",
+    "end": null,
+    "location": "1500 K St NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.sg/e/strategic-negotiation-for-ngos-1-day-training-in-washington-dc-tickets-1991037516810",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "July 09, 2026 at 02:53 PM";
+const LAST_UPDATED = "July 09, 2026 at 07:41 PM";
