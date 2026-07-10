@@ -1,6 +1,6 @@
 const EVENTS_DATA = [
   {
-    "id": "eb_1026113279232918445",
+    "id": "eb_474453283989279675",
     "title": "Fitness at Franklin",
     "description": "",
     "start": "2026-07-11T09:00:00",
@@ -13,7 +13,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_8520043632654181184",
+    "id": "eb_2292327426937115617",
     "title": "Community Day: Service & Connection",
     "description": "",
     "start": "2026-07-11T10:00:00",
@@ -26,7 +26,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1125265240797832319",
+    "id": "eb_5872763113839058759",
     "title": "StudioZo Pool Pilates & Summer Rooftop Party",
     "description": "",
     "start": "2026-07-11T11:00:00",
@@ -39,7 +39,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_4253265393542610021",
+    "id": "eb_5201023338039166447",
     "title": "CommUNITY FUN DAY \"The Friendly Feuds\"",
     "description": "",
     "start": "2026-07-11T14:00:00",
@@ -52,7 +52,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1690266237893238597",
+    "id": "eb_420070443241151975",
     "title": "Women in Politics Mixer: Celebrating 250 Years Our Way",
     "description": "",
     "start": "2026-07-14T18:00:00",
@@ -65,7 +65,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_989949631950786441",
+    "id": "eb_6509355244258435833",
     "title": "Strategic Negotiation for NGOs: 1 Day Training in Washington, DC",
     "description": "",
     "start": "2026-07-15T09:00:00",
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     "source": "Eventbrite"
   },
   {
-    "id": "eb_1258146149069254655",
+    "id": "eb_2669725359995488377",
     "title": "LGBTQ+ Community Happy Hour @ Spark Social",
     "description": "",
     "start": "2026-07-15T18:00:00",
@@ -89,6 +89,32 @@ const EVENTS_DATA = [
     "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1992712647170",
     "event_type": "EVENT",
     "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5700870399992581681",
+    "title": "2026 Future of Black Communities Summit",
+    "description": "",
+    "start": "2026-07-16T08:15:00",
+    "end": null,
+    "location": "Hyatt Regency Washington on Capitol Hill, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/2026-future-of-black-communities-summit-tickets-1991994540293",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_8755407312188323249",
+    "title": "Compliance Strategy for Executives 1 Day Training â Washington, D.C.",
+    "description": "",
+    "start": "2026-07-16T09:00:00",
+    "end": null,
+    "location": "For venue information, Please contact us: info@skelora.com, Washington, D.C Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/compliance-strategy-for-executives-1-day-training-washington-dc-tickets-1990074925674",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
   }
 ];
-const LAST_UPDATED = "July 10, 2026 at 02:19 PM";
+const LAST_UPDATED = "July 10, 2026 at 07:23 PM";
