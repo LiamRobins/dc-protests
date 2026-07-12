@@ -1,2 +1,133 @@
-const EVENTS_DATA = [];
-const LAST_UPDATED = "July 12, 2026 at 02:31 AM";
+const EVENTS_DATA = [
+  {
+    "id": "eb_5597770378773520680",
+    "title": "Women in Politics Mixer: Celebrating 250 Years Our Way",
+    "description": "",
+    "start": "2026-07-14T18:00:00",
+    "end": null,
+    "location": "Bluestone Lane West End CafÃ©, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/women-in-politics-mixer-celebrating-250-years-our-way-tickets-1992927972213",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_920945575744572495",
+    "title": "Strategic Negotiation for NGOs: 1 Day Training in Washington, DC",
+    "description": "",
+    "start": "2026-07-15T09:00:00",
+    "end": null,
+    "location": "1500 K St NW, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.sg/e/strategic-negotiation-for-ngos-1-day-training-in-washington-dc-tickets-1991037516810",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3275902198908569304",
+    "title": "Ambassador Insider Series: Luxembourg",
+    "description": "",
+    "start": "2026-07-15T18:00:00",
+    "end": null,
+    "location": "The Royal Sonesta Washington DC Dupont Circle, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/ambassador-insider-series-luxembourg-tickets-1992582203008",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_5372454477036163223",
+    "title": "LGBTQ+ Community Happy Hour @ Spark Social",
+    "description": "",
+    "start": "2026-07-15T18:00:00",
+    "end": null,
+    "location": "Spark Social, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/lgbtq-community-happy-hour-spark-social-tickets-1992712647170",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_3751440207812198432",
+    "title": "2026 Future of Black Communities Summit",
+    "description": "",
+    "start": "2026-07-16T08:15:00",
+    "end": null,
+    "location": "Hyatt Regency Washington on Capitol Hill, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/2026-future-of-black-communities-summit-tickets-1991994540293",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_6746016373035266391",
+    "title": "Compliance Strategy for Executives 1 Day Training â Washington, D.C.",
+    "description": "",
+    "start": "2026-07-16T09:00:00",
+    "end": null,
+    "location": "For venue information, Please contact us: info@skelora.com, Washington, D.C Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/compliance-strategy-for-executives-1-day-training-washington-dc-tickets-1990074925674",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_4320436644232122582",
+    "title": "Drafting Justice: A Summer Celebration of Movement Wins",
+    "description": "",
+    "start": "2026-07-16T18:00:00",
+    "end": null,
+    "location": "Atlas Brew Works Bridge District Brewery & Tap Room, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/drafting-justice-a-summer-celebration-of-movement-wins-tickets-1989252810706",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_1202332858622427406",
+    "title": "Smart Negotiation Strategies   1 Day Workshop in  Washington, D.C",
+    "description": "",
+    "start": "2026-07-17T09:00:00",
+    "end": null,
+    "location": "For venue information, Please contact us: info@skelora.com, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/smart-negotiation-strategies-1-day-workshop-in-washington-dc-tickets-1989143662240",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_7838428492635047658",
+    "title": "Negotiation Skills-Professional 1-Day Workshop | Washington, D.C",
+    "description": "",
+    "start": "2026-07-17T09:00:00",
+    "end": null,
+    "location": "For venue details reach us at info@learnerring.com, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/negotiation-skills-professional-1-day-workshop-washington-dc-tickets-1988459801795",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  },
+  {
+    "id": "eb_438796459783235281",
+    "title": "3rd Fridays Open Mic Night!| Brookland | Host: Mariah Barber",
+    "description": "",
+    "start": "2026-07-17T21:00:00",
+    "end": null,
+    "location": "Busboys and Poets, Washington Â",
+    "organizer": "",
+    "organizer_website": "",
+    "event_url": "https://www.eventbrite.com/e/3rd-fridays-open-mic-night-brookland-host-mariah-barber-tickets-1054451535929",
+    "event_type": "EVENT",
+    "source": "Eventbrite"
+  }
+];
+const LAST_UPDATED = "July 12, 2026 at 08:12 AM";
