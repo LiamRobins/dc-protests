@@ -13,4 +13,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "July 22, 2026 at 07:12 PM";
+const LAST_UPDATED = "July 23, 2026 at 02:30 AM";
