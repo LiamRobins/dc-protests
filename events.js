@@ -37,6 +37,45 @@ const EVENTS_DATA = [
     "event_url": "https://www.mobilize.us/indivisibleadksaratoga/event/1006161/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
+  },
+  {
+    "id": "mob_999794_6207731",
+    "title": "March On Washington",
+    "description": "On Friday, August 28, 2026, we gather on the National Mall in Washington, D.C. for the March on Washington: Defend the Vote. Hosted by Rev. Al Sharpton, the National Action Network, and the Drum Major Institute on the 63rd anniversary of the 1963 March on Washington, we march because the work is not finished.\n\nWe march to defend the vote, because voting rights are under attack and the protections generations fought, bled, and died for are being weakened.\n\nWe march to defend civil rights, because attacks on diversity, equity, and inclusion are attempts to roll back access, opportunity, and representation.\nWe march for economic justice, because too many families are still fighting for fair wages, affordable housing, equal opportunity, and a fair chance to build wealth.\n\nThis is not only about one election. This is about whether our democracy will protect all of us. This is about whether the promises of 1963 will finally be made real. This is about standing together, across generations, to say we will not go backward.",
+    "start": "2026-08-28T12:00:00+00:00",
+    "end": "2026-08-28T19:00:00+00:00",
+    "location": "Lincoln Memorial, 2 Lincoln Memorial Cir NW, Washington, DC",
+    "organizer": "Common Cause",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/commoncause/event/999794/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
+  },
+  {
+    "id": "mob_1015162_6299751",
+    "title": "Join RefuseFascism.org at the March on Washington/Defend the Vote",
+    "description": "Friday August 28 * Lincoln Memorial * Washington DC\nMarchOnWashington2026.com to defend the vote\n9:00 am rally begins\nNational Action Network and Drum Major Institute sponsor this rally on the anniversary of the 1963 March on Washington which demanded the Voting Rights Act and the Civil Rights Act.\n\nBack to Jim Crow? – HELL NO!  \nTRUMP MUST GO NOW!\n\nJoin Refuse Fascism at the march and be part of building the movement humanity needs to drive out fascism’s Jim Crow agenda and all the horrors they are bringing to humanity throughout the world. This is our responsibility to fight for a future worth living in.\n\nUpon registration, you'll be notified of where RefuseFascism will meet.",
+    "start": "2026-08-28T12:00:00+00:00",
+    "end": "2026-08-29T03:00:00+00:00",
+    "location": "Lincoln Memorial, 2 Lincoln Memorial Cir NW, Washington, DC",
+    "organizer": "RefuseFascism.org",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/refusefascismorg/event/1015162/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
+  },
+  {
+    "id": "mob_996988_6192578",
+    "title": "March on Washington: Defend the Vote",
+    "description": "## March on Washington: Defend the Vote\n\nAs America marks its 250th anniversary, we face a defining choice: **Will our nation live up to its promise of liberty and justice for all—or allow wealth, prejudice, and power to push us backward?** On **Friday, August 28, 2026**, people from across the country will gather at the **Lincoln Memorial in Washington, D.C.**, for the **March on Washington: Defend the Vote**. Convened by the National Action Network and the Drum Major Institute and co-chaired by **Reverend Al Sharpton, Martin Luther King III, and Arndrea Waters King**, this historic gathering will honor the 63rd anniversary of the 1963 March on Washington while mobilizing around **Voting Rights, Economic Dignity, and Affordability**.\n\nThis is more than a commemoration—it is a call to action. Join this peaceful, nonpartisan, interfaith, and intergenerational gathering as we defend the right to vote, demand dignity and opportunity for every community, and build a democracy rooted in equality and power to the people. **Attend in person, watch the livestream, volunteer, or become a partner. We are not gathering simply to remember history—we are gathering to make it.**\n\n**Please note: This is a peaceful gathering.** We do not condone violence in any form, nor do we encourage anyone to break the law. Our work is rooted in peaceful advocacy and the exercise of our constitutional rights—including voting, free speech, peaceful assembly, rallies, and protest.\n\nWe use these time-honored tools, as generations of Americans have before us, to defend our rights, freedoms, the rule of law, and our democracy. Together, we will protect the right to vote and build an America that lives up to its promise of liberty and justice for all.\n\nWe want to help make it possible for more people to be there. If you are interested in bus transportation to and from Washington, D.C., please complete our **MARCH ON WASHINGTON 2026 BUS INTEREST FORM:**\nhttps://actionnetwork.org/forms/march-on-washington-2026-bus-interest-form/\n\n👕 ** Buy a shirt to help us mobilize:  https://peoplepowerunited.etsy.com/listing/4557491495",
+    "start": "2026-08-28T12:00:00+00:00",
+    "end": "2026-08-28T16:00:00+00:00",
+    "location": "Lincoln Memorial, 2 Lincoln Memorial Cir NW, Washington, DC",
+    "organizer": "People Power United",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/peoplepowerunited/event/996988/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "August 21, 2026 at 06:40 AM";
+const LAST_UPDATED = "August 21, 2026 at 12:40 PM";
