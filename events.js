@@ -65,17 +65,43 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   },
   {
-    "id": "mob_996988_6192578",
-    "title": "March on Washington: Defend the Vote",
-    "description": "## March on Washington: Defend the Vote\n\nAs America marks its 250th anniversary, we face a defining choice: **Will our nation live up to its promise of liberty and justice for all—or allow wealth, prejudice, and power to push us backward?** On **Friday, August 28, 2026**, people from across the country will gather at the **Lincoln Memorial in Washington, D.C.**, for the **March on Washington: Defend the Vote**. Convened by the National Action Network and the Drum Major Institute and co-chaired by **Reverend Al Sharpton, Martin Luther King III, and Arndrea Waters King**, this historic gathering will honor the 63rd anniversary of the 1963 March on Washington while mobilizing around **Voting Rights, Economic Dignity, and Affordability**.\n\nThis is more than a commemoration—it is a call to action. Join this peaceful, nonpartisan, interfaith, and intergenerational gathering as we defend the right to vote, demand dignity and opportunity for every community, and build a democracy rooted in equality and power to the people. **Attend in person, watch the livestream, volunteer, or become a partner. We are not gathering simply to remember history—we are gathering to make it.**\n\n**Please note: This is a peaceful gathering.** We do not condone violence in any form, nor do we encourage anyone to break the law. Our work is rooted in peaceful advocacy and the exercise of our constitutional rights—including voting, free speech, peaceful assembly, rallies, and protest.\n\nWe use these time-honored tools, as generations of Americans have before us, to defend our rights, freedoms, the rule of law, and our democracy. Together, we will protect the right to vote and build an America that lives up to its promise of liberty and justice for all.\n\nWe want to help make it possible for more people to be there. If you are interested in bus transportation to and from Washington, D.C., please complete our **MARCH ON WASHINGTON 2026 BUS INTEREST FORM:**\nhttps://actionnetwork.org/forms/march-on-washington-2026-bus-interest-form/\n\n👕 ** Buy a shirt to help us mobilize:  https://peoplepowerunited.etsy.com/listing/4557491495",
-    "start": "2026-08-28T12:00:00+00:00",
+    "id": "mob_1003273_6227721",
+    "title": "MARCH ON WASHINGTON, Defend the Vote",
+    "description": "This a local Indivisible event!\n\nThe Time Is Now. The March Is For All of Us.\nOn Friday, August 28, 2026, we gather on the National Mall in Washington, D.C. for the March on Washington: Defend the Vote. Hosted by Rev. Al Sharpton, the National Action Network, and the Drum Major Institute on the 63rd anniversary of the 1963 March on Washington, we march because the work is not finished.\n\n*A core principle behind all Indivisible events is a commitment to nonviolent action. We expect all participants to seek to de-escalate any potential confrontation with those who disagree with our values.*",
+    "start": "2026-08-28T13:00:00+00:00",
     "end": "2026-08-28T16:00:00+00:00",
-    "location": "Lincoln Memorial, 2 Lincoln Memorial Cir NW, Washington, DC",
-    "organizer": "People Power United",
+    "location": "Lincoln Memorialy, 2 Lincoln Memorial Cir NW, Washington, DC",
+    "organizer": "Indivisible",
     "organizer_website": "",
-    "event_url": "https://www.mobilize.us/peoplepowerunited/event/996988/",
+    "event_url": "https://www.mobilize.us/indivisible/event/1003273/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
+  },
+  {
+    "id": "mob_1009776_6277535",
+    "title": "March on Washington - IndivisibleHoCoMD group",
+    "description": "On **Friday, August 28, 2026,** we gather at the Lincoln Memorial for the 63rd anniversary of the 1963 March on Washington, to **defend the vote, protect equal opportunity, and demand economic dignity.** This event is Co-chaired by Rev. Al Sharpton, Martin Luther King III, and Andrea Waters King, and co-convened by the National Action Network, and the Drum Major Institute, and a growing coalition of national partners, including Indivisible.  \n\nThe right to vote is under direct attack. This march stands on the same ground as 1963 because the work of that march remains unfinished. We will stand together, across generations and in large numbers, to show that we refuse to go backward.\n\nThe event will begin at the Lincoln Memorial at 9:00am. \n  \n\n[Official March on Washington website](https://marchonwashington2026.com/)\n\nIndivisibleHoCoMD will organize carpools. Departure times will be 6:30am, 7:00am, or 7:30am.  Please watch for a follow up email after you register that will include a link to the carpool signup page.",
+    "start": "2026-08-28T13:00:00+00:00",
+    "end": "2026-08-28T17:30:00+00:00",
+    "location": "Lincoln Memorial, 2 Lincoln Memorial Cir NW, Washington, DC",
+    "organizer": "IndivisibleHoCoMD",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/indivisiblehocomd/event/1009776/",
+    "event_type": "RALLY",
+    "source": "Mobilize.us"
+  },
+  {
+    "id": "mob_996699_6191364",
+    "title": "Join HRC for March on Washington 2026: Defend the ​Vote",
+    "description": "On Friday, August 28, 2026, HRC will join our partner organizations on the National Mall in Washington, D.C. for the March on Washington: Defend the Vote. We march to defend the vote, defend civil rights and achieve economic justice for all. \n\nHosted by Rev. Al Sharpton, the National Action Network, and the Drum Major Institute on the 63rd anniversary of the 1963 March on Washington, we march because the work is not finished.\n\nSign up today to march with HRC!",
+    "start": "2026-08-28T13:00:00+00:00",
+    "end": "2026-08-28T17:00:00+00:00",
+    "location": "Lincoln Memorial, 2 Lincoln Memorial Cir NW, Washington, DC",
+    "organizer": "Human Rights Campaign",
+    "organizer_website": "",
+    "event_url": "https://www.mobilize.us/hrc/event/996699/",
     "event_type": "RALLY",
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "August 21, 2026 at 12:40 PM";
+const LAST_UPDATED = "August 21, 2026 at 06:32 PM";
