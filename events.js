@@ -54,7 +54,7 @@ const EVENTS_DATA = [
   {
     "id": "mob_1015162_6299751",
     "title": "Join RefuseFascism.org at the March on Washington/Defend the Vote",
-    "description": "Friday August 28 * Lincoln Memorial * Washington DC\nMarchOnWashington2026.com to defend the vote\n9:00 am rally begins\nNational Action Network and Drum Major Institute sponsor this rally on the anniversary of the 1963 March on Washington which demanded the Voting Rights Act and the Civil Rights Act.\n\nBack to Jim Crow? – HELL NO!  \nTRUMP MUST GO NOW!\n\nJoin Refuse Fascism at the march and be part of building the movement humanity needs to drive out fascism’s Jim Crow agenda and all the horrors they are bringing to humanity throughout the world. This is our responsibility to fight for a future worth living in.\n\nUpon registration, you'll be notified of where RefuseFascism will meet.",
+    "description": "Friday August 28 * Lincoln Memorial * Washington DC\nMarchOnWashington2026.com to defend the vote\n9:00 am rally begins\nMeet at northwest corner of the reflecting pool\nNorthwest corner of the reflecting pool.\nNational Action Network and Drum Major Institute sponsor this rally on the anniversary of the 1963 March on Washington which demanded the Voting Rights Act and the Civil Rights Act.\n\nBack to Jim Crow? – HELL NO!  \nTRUMP MUST GO NOW!\n\nJoin Refuse Fascism at the march and be part of building the movement humanity needs to drive out fascism’s Jim Crow agenda and all the horrors they are bringing to humanity throughout the world. This is our responsibility to fight for a future worth living in.\n\nUpon registration, you'll be notified of where RefuseFascism will meet.",
     "start": "2026-08-28T12:00:00+00:00",
     "end": "2026-08-29T03:00:00+00:00",
     "location": "Lincoln Memorial, 2 Lincoln Memorial Cir NW, Washington, DC",
@@ -104,4 +104,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "August 22, 2026 at 12:32 PM";
+const LAST_UPDATED = "August 22, 2026 at 06:25 PM";
