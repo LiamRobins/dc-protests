@@ -5,7 +5,7 @@ const EVENTS_DATA = [
     "description": "Come with the Arlington Democrats AAPI Caucus for a guided tour through the National Museum of Asian Art hosted by one of their excellent docents.",
     "start": "2026-08-23T16:00:00+00:00",
     "end": "2026-08-23T18:00:00+00:00",
-    "location": "National Museum of Asian Art, 1050 Independence Ave SW, Washington, DC",
+    "location": "National Museum of Asian Art, Jefferson Drive at 12th Street SW, Washington, DC",
     "organizer": "Arlington Democrats AAPI Caucus",
     "organizer_website": "",
     "event_url": "https://www.mobilize.us/arlingtondemocratsaapicaucus/event/1003602/",
@@ -104,4 +104,4 @@ const EVENTS_DATA = [
     "source": "Mobilize.us"
   }
 ];
-const LAST_UPDATED = "August 23, 2026 at 01:08 AM";
+const LAST_UPDATED = "August 23, 2026 at 06:35 AM";
